@@ -1,0 +1,476 @@
+﻿[2017-03-25 22:52:22] [ERROR] [ChannelManager.cpp:8593] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\PPL3EC.tmp
+[2017-03-25 22:52:50] [ERROR] [PPFrameWnd.cpp:2969] - [PPLive PPFrame]PPTV version:3.6.9.0047 customer:forqd23
+[2017-03-25 22:52:51] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1188] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:12.035000,endTime:1490453571.514500, FailedUrl:http://client.aplus.pptv.com/static_page/level_tip/, RemoteIP:122.72.1.87
+[2017-03-25 22:59:04] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1188] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:373.559125,endTime:1490453944.091625, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:122.72.1.60
+[2017-03-25 22:59:04] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1188] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:384.779125,endTime:1490453944.373625, FailedUrl:http://client.aplus.pptv.com/menu/, RemoteIP:122.72.1.87
+[2017-03-26 00:02:42] [ERROR] [Utils\Utils.cpp:969] - [PPLive ProductUpdate]P2P下载超时
+
+[2017-03-26 00:02:51] [ERROR] [Utils\Utils.cpp:780] - [PPLive ProductUpdate]HTTP下载速度 329 kb/s
+
+[2017-03-26 03:58:33] [ERROR] [Utils\Utils.cpp:969] - [PPLive ProductUpdate]P2P下载超时
+
+[2017-03-26 03:58:54] [ERROR] [Utils\Utils.cpp:780] - [PPLive ProductUpdate]HTTP下载速度 1750 kb/s
+
+[2017-03-27 07:21:29] [ERROR] [ChannelManager.cpp:8696] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\PPL27F.tmp
+[2017-03-27 07:21:38] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-03-27 22:22:11] [ERROR] [ChannelManager.cpp:8696] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\PPL56.tmp
+[2017-03-27 22:22:24] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-03-27 22:23:05] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:19.688000,endTime:1490624577.141000, FailedUrl:http://client.aplus.pptv.com/static_page/vip_tip/pg_viptips, RemoteIP:122.72.1.96
+[2017-03-27 22:23:10] [ERROR] [PPFrameWnd.cpp:3010] - [PPLive PPFrame]PPTV version:4.0.3.0056 customer:forqd23
+[2017-03-27 22:23:12] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:35.407000,endTime:1490624592.860000, FailedUrl:http://client.aplus.pptv.com/static_page/level_tip/, RemoteIP:122.72.1.96
+[2017-03-27 22:23:15] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:19.593000,endTime:1490624595.703000, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:122.72.1.87
+[2017-03-27 22:23:53] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:37.608375,endTime:1490624633.327375, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:122.72.1.96
+[2017-03-27 22:23:53] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:75.906375,endTime:1490624633.359375, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:122.72.1.96
+[2017-03-27 22:28:29] [ERROR] [Utils\Utils.cpp:969] - [PPLive ProductUpdate]P2P下载超时
+
+[2017-03-27 22:28:30] [ERROR] [Utils\Utils.cpp:780] - [PPLive ProductUpdate]HTTP下载速度 265 kb/s
+
+[2017-03-27 22:33:39] [ERROR] [Utils\Utils.cpp:969] - [PPLive ProductUpdate]P2P下载超时
+
+[2017-03-27 22:33:40] [ERROR] [Utils\Utils.cpp:780] - [PPLive ProductUpdate]HTTP下载速度 191 kb/s
+
+[2017-03-27 22:38:55] [ERROR] [Utils\Utils.cpp:969] - [PPLive ProductUpdate]P2P下载超时
+
+[2017-03-27 22:38:57] [ERROR] [Utils\Utils.cpp:780] - [PPLive ProductUpdate]HTTP下载速度 141 kb/s
+
+[2017-03-27 22:44:08] [ERROR] [Utils\Utils.cpp:969] - [PPLive ProductUpdate]P2P下载超时
+
+[2017-03-27 22:44:10] [ERROR] [Utils\Utils.cpp:780] - [PPLive ProductUpdate]HTTP下载速度 1743 kb/s
+
+[2017-03-27 22:49:16] [ERROR] [Utils\Utils.cpp:969] - [PPLive ProductUpdate]P2P下载超时
+
+[2017-03-27 22:49:17] [ERROR] [Utils\Utils.cpp:780] - [PPLive ProductUpdate]HTTP下载速度 669 kb/s
+
+[2017-03-28 01:28:12] [ERROR] [Utils\Utils.cpp:969] - [PPLive ProductUpdate]P2P下载超时
+
+[2017-03-28 01:28:13] [ERROR] [Utils\Utils.cpp:780] - [PPLive ProductUpdate]HTTP下载速度 780 kb/s
+
+[2017-03-28 18:11:29] [ERROR] [ChannelManager.cpp:8696] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\PPL59.tmp
+[2017-03-28 18:11:41] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-03-28 18:12:19] [ERROR] [PPFrameWnd.cpp:3010] - [PPLive PPFrame]PPTV version:4.0.3.0056 customer:forqd23
+[2017-03-28 18:12:39] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:41.609000,endTime:1490695948.015250, FailedUrl:http://client.aplus.pptv.com/static_page/vip_tip/pg_viptips, RemoteIP:122.72.1.61
+[2017-03-28 18:12:40] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:41.656000,endTime:1490695948.062250, FailedUrl:http://client.aplus.pptv.com/static_page/level_tip/, RemoteIP:122.72.1.61
+[2017-03-28 18:13:22] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:29.094000,endTime:1490696002.875750, FailedUrl:http://ads.aplus.pptv.com/ipservice/servicejump.html, RemoteIP:122.72.1.60
+[2017-03-28 18:13:31] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:86.844500,endTime:1490696011.140750, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:122.72.1.87
+[2017-03-28 18:13:31] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:104.765500,endTime:1490696011.171750, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:122.72.1.61
+[2017-04-05 19:49:34] [ERROR] [ChannelManager.cpp:8696] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\PPL5B.tmp
+[2017-04-05 19:49:44] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-04-05 19:50:17] [ERROR] [PPFrameWnd.cpp:3010] - [PPLive PPFrame]PPTV version:4.0.3.0056 customer:forqd23
+[2017-04-05 19:50:18] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:21.750000,endTime:1491393018.328375, FailedUrl:http://client.aplus.pptv.com/static_page/vip_tip/pg_viptips, RemoteIP:122.72.1.96
+[2017-04-05 19:50:22] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:21.813000,endTime:1491393018.391375, FailedUrl:http://client.aplus.pptv.com/static_page/level_tip/, RemoteIP:122.72.1.96
+[2017-04-05 19:51:36] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:51.405625,endTime:1491393095.984000, FailedUrl:http://ads.aplus.pptv.com/ipservice/servicejump.html, RemoteIP:122.72.1.96
+[2017-04-05 19:51:51] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:96.015625,endTime:1491393111.297000, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:122.72.1.61
+[2017-04-05 19:51:51] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:114.780625,endTime:1491393111.359000, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:122.72.1.96
+[2017-04-05 21:04:45] [ERROR] [ChannelManager.cpp:8699] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\PPL1EF.tmp
+[2017-04-05 21:04:55] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-04-05 21:04:57] [ERROR] [PPFrameWnd.cpp:3010] - [PPLive PPFrame]PPTV version:4.0.4.0009 customer:forqd23
+[2017-04-05 21:05:17] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:20.813000,endTime:1491397517.125500, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:122.72.7.201
+[2017-04-05 21:05:17] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:21.953000,endTime:1491397517.156500, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:122.72.7.202
+[2017-04-05 21:08:45] [ERROR] [PPPWnd.cpp:5929] - [PPLive PPP]请求节目：23596789，VVID：6CB5D5BB-57C4-4060-9998-5655E35010BA
+[2017-04-05 21:10:39] [ERROR] [Utils\Utils.cpp:969] - [PPLive ProductUpdate]P2P下载超时
+
+[2017-04-05 21:10:41] [ERROR] [Utils\Utils.cpp:780] - [PPLive ProductUpdate]HTTP下载速度 64 kb/s
+
+[2017-04-05 22:54:11] [ERROR] [ChannelManager.cpp:8699] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\PPL306.tmp
+[2017-04-05 22:54:20] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-04-05 22:54:27] [ERROR] [PPFrameWnd.cpp:3010] - [PPLive PPFrame]PPTV version:4.0.4.0009 customer:forqd23
+[2017-04-05 22:54:46] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:19.651000,endTime:1491404086.701250, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:122.72.1.96
+[2017-04-05 22:54:46] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:22.590000,endTime:1491404086.774250, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:122.72.1.61
+[2017-04-05 23:00:03] [ERROR] [Utils\Utils.cpp:969] - [PPLive ProductUpdate]P2P下载超时
+
+[2017-04-05 23:00:04] [ERROR] [Utils\Utils.cpp:780] - [PPLive ProductUpdate]HTTP下载速度 103 kb/s
+
+[2017-04-05 23:05:20] [ERROR] [Utils\Utils.cpp:969] - [PPLive ProductUpdate]P2P下载超时
+
+[2017-04-05 23:05:21] [ERROR] [Utils\Utils.cpp:780] - [PPLive ProductUpdate]HTTP下载速度 170 kb/s
+
+[2017-04-05 23:10:39] [ERROR] [Utils\Utils.cpp:969] - [PPLive ProductUpdate]P2P下载超时
+
+[2017-04-05 23:10:43] [ERROR] [Utils\Utils.cpp:780] - [PPLive ProductUpdate]HTTP下载速度 622 kb/s
+
+[2017-04-05 23:16:08] [ERROR] [Utils\Utils.cpp:969] - [PPLive ProductUpdate]P2P下载超时
+
+[2017-04-05 23:16:11] [ERROR] [Utils\Utils.cpp:780] - [PPLive ProductUpdate]HTTP下载速度 263 kb/s
+
+[2017-04-05 23:21:22] [ERROR] [Utils\Utils.cpp:969] - [PPLive ProductUpdate]P2P下载超时
+
+[2017-04-05 23:21:23] [ERROR] [Utils\Utils.cpp:780] - [PPLive ProductUpdate]HTTP下载速度 835 kb/s
+
+[2017-04-05 23:21:23] [ERROR] [FlowHandler.cpp:257] - [PPLive ProductUpdate]copy module failed srcpath=C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\chctrl.dll to dstpath=C:\Program Files\PPLive\PPTV\4.0.4.0009\components\chctrl.dll
+[2017-04-06 00:00:46] [ERROR] [Utils\Utils.cpp:969] - [PPLive ProductUpdate]P2P下载超时
+
+[2017-04-06 00:00:47] [ERROR] [Utils\Utils.cpp:780] - [PPLive ProductUpdate]HTTP下载速度 944 kb/s
+
+[2017-04-06 00:00:49] [ERROR] [FlowHandler.cpp:257] - [PPLive ProductUpdate]copy module failed srcpath=C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\chctrl.dll to dstpath=C:\Program Files\PPLive\PPTV\4.0.4.0009\components\chctrl.dll
+[2017-04-06 01:00:44] [ERROR] [Utils\Utils.cpp:969] - [PPLive ProductUpdate]P2P下载超时
+
+[2017-04-06 01:00:45] [ERROR] [Utils\Utils.cpp:780] - [PPLive ProductUpdate]HTTP下载速度 708 kb/s
+
+[2017-04-06 01:00:48] [ERROR] [FlowHandler.cpp:257] - [PPLive ProductUpdate]copy module failed srcpath=C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\chctrl.dll to dstpath=C:\Program Files\PPLive\PPTV\4.0.4.0009\components\chctrl.dll
+[2017-04-06 02:00:55] [ERROR] [Utils\Utils.cpp:969] - [PPLive ProductUpdate]P2P下载超时
+
+[2017-04-06 02:00:59] [ERROR] [Utils\Utils.cpp:780] - [PPLive ProductUpdate]HTTP下载速度 219 kb/s
+
+[2017-04-06 02:01:00] [ERROR] [FlowHandler.cpp:257] - [PPLive ProductUpdate]copy module failed srcpath=C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\chctrl.dll to dstpath=C:\Program Files\PPLive\PPTV\4.0.4.0009\components\chctrl.dll
+[2017-04-07 00:02:01] [ERROR] [ChannelManager.cpp:8699] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\PPL669.tmp
+[2017-04-07 00:02:10] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-04-07 00:02:51] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:28.677000,endTime:1491494571.874625, FailedUrl:http://client.aplus.pptv.com/static_page/vip_tip/pg_viptips, RemoteIP:122.72.1.96
+[2017-04-07 00:03:11] [ERROR] [PPFrameWnd.cpp:3010] - [PPLive PPFrame]PPTV version:4.0.4.0009 customer:forqd23
+[2017-04-07 00:03:12] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:49.226000,endTime:1491494592.311625, FailedUrl:http://client.aplus.pptv.com/static_page/level_tip/, RemoteIP:122.72.1.96
+[2017-04-07 00:03:42] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:40.522000,endTime:1491494622.004625, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:122.72.1.60
+[2017-04-07 00:03:43] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:79.012000,endTime:1491494622.211625, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:122.72.1.96
+[2017-04-07 00:08:32] [ERROR] [Utils\Utils.cpp:969] - [PPLive ProductUpdate]P2P下载超时
+
+[2017-04-07 00:08:34] [ERROR] [Utils\Utils.cpp:780] - [PPLive ProductUpdate]HTTP下载速度 247 kb/s
+
+[2017-04-07 00:13:59] [ERROR] [Utils\Utils.cpp:969] - [PPLive ProductUpdate]P2P下载超时
+
+[2017-04-07 00:13:59] [ERROR] [Utils\Utils.cpp:780] - [PPLive ProductUpdate]HTTP下载速度 161 kb/s
+
+[2017-04-07 05:48:39] [ERROR] [ChannelManager.cpp:8699] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\PPL5F.tmp
+[2017-04-07 05:48:48] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-04-07 05:49:37] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:15.532000,endTime:1491515375.453125, FailedUrl:http://client.aplus.pptv.com/static_page/vip_tip/pg_viptips, RemoteIP:122.72.1.60
+[2017-04-07 05:49:57] [ERROR] [PPFrameWnd.cpp:3010] - [PPLive PPFrame]PPTV version:4.0.4.0009 customer:forqd23
+[2017-04-07 05:50:01] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:31.172000,endTime:1491515401.843125, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:122.72.1.61
+[2017-04-07 05:50:02] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:42.422000,endTime:1491515402.250125, FailedUrl:http://client.aplus.pptv.com/static_page/level_tip/, RemoteIP:122.72.1.60
+[2017-04-07 05:51:23] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:56.532250,endTime:1491515482.625750, FailedUrl:http://ads.aplus.pptv.com/ipservice/servicejump.html, RemoteIP:122.72.1.60
+[2017-04-07 05:52:15] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:133.500625,endTime:1491515535.343750, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:122.72.1.87
+[2017-04-07 05:52:19] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:175.829625,endTime:1491515535.750750, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:122.72.1.60
+[2017-04-07 23:08:05] [ERROR] [ChannelManager.cpp:8699] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\PPL4C8.tmp
+[2017-04-07 23:08:17] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-04-07 23:08:43] [ERROR] [PPFrameWnd.cpp:3010] - [PPLive PPFrame]PPTV version:4.0.4.0009 customer:forqd23
+[2017-04-07 23:08:51] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:14.547000,endTime:1491577731.428125, FailedUrl:http://client.aplus.pptv.com/static_page/level_tip/, RemoteIP:122.72.1.96
+[2017-04-07 23:09:22] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:30.210000,endTime:1491577762.804125, FailedUrl:http://ads.aplus.pptv.com/ipservice/servicejump.html, RemoteIP:122.72.1.61
+[2017-04-07 23:12:28] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:223.855000,endTime:1491577947.316125, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:122.72.1.61
+[2017-04-07 23:12:28] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:231.134000,endTime:1491577948.019125, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:122.72.1.96
+[2017-04-10 00:22:48] [ERROR] [ChannelManager.cpp:8699] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\PPL5BC.tmp
+[2017-04-10 00:22:58] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-04-10 00:23:54] [ERROR] [PPFrameWnd.cpp:3010] - [PPLive PPFrame]PPTV version:4.0.4.0009 customer:forqd23
+[2017-04-10 00:23:55] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:10.894000,endTime:1491755035.094875, FailedUrl:http://client.aplus.pptv.com/static_page/vip_tip/pg_viptips, RemoteIP:122.72.1.96
+[2017-04-10 00:23:57] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:13.355000,endTime:1491755037.522875, FailedUrl:http://client.aplus.pptv.com/static_page/level_tip/, RemoteIP:122.72.1.96
+[2017-04-10 00:24:53] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:60.059625,endTime:1491755092.255500, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:122.72.1.96
+[2017-04-10 00:24:58] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:68.514625,endTime:1491755092.721500, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:122.72.1.96
+[2017-04-10 18:59:25] [ERROR] [ChannelManager.cpp:8699] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\PPL11F.tmp
+[2017-04-10 18:59:33] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-04-10 18:59:45] [ERROR] [PPFrameWnd.cpp:3010] - [PPLive PPFrame]PPTV version:4.0.4.0009 customer:forqd23
+[2017-04-10 19:01:08] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:83.364625,endTime:1491822068.364500, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:122.72.1.61
+[2017-04-10 19:01:08] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:90.087625,endTime:1491822068.447500, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:122.72.1.60
+[2017-04-10 19:02:47] [ERROR] [AdControl.cpp:815] - [PPLive admodule]------ABNORMITYLIVE-------检测到HTML5广告心跳超时，结束广告------
+[2017-04-11 23:44:36] [ERROR] [ChannelManager.cpp:8699] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\PPL8AC.tmp
+[2017-04-11 23:44:55] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-04-11 23:45:26] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:26.521000,endTime:1491925526.646500, FailedUrl:http://client.aplus.pptv.com/static_page/vip_tip/pg_viptips, RemoteIP:122.72.1.96
+[2017-04-11 23:45:33] [ERROR] [PPFrameWnd.cpp:3010] - [PPLive PPFrame]PPTV version:4.0.4.0009 customer:forqd23
+[2017-04-11 23:45:33] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:11.498000,endTime:1491925533.537500, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:122.72.1.96
+[2017-04-11 23:45:35] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:35.454000,endTime:1491925535.413500, FailedUrl:http://client.aplus.pptv.com/static_page/level_tip/, RemoteIP:122.72.1.96
+[2017-04-11 23:46:37] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:16.985000,endTime:1491925595.126250, FailedUrl:http://ads.aplus.pptv.com/ipservice/servicejump.html, RemoteIP:122.72.1.87
+[2017-04-11 23:49:19] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:223.433750,endTime:1491925756.973250, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:122.72.1.96
+[2017-04-11 23:49:22] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:257.081750,endTime:1491925757.208250, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:122.72.1.96
+[2017-05-15 23:56:16] [ERROR] [ChannelManager.cpp:8699] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\PPL72.tmp
+[2017-05-15 23:56:22] [ERROR] [PPFrameWnd.cpp:3010] - [PPLive PPFrame]PPTV version:4.0.4.0009 customer:forqd23
+[2017-05-15 23:56:26] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-05-15 23:56:34] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:12.828000,endTime:1494863794.124625, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:221.180.237.183
+[2017-05-15 23:56:34] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:13.625000,endTime:1494863794.156625, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:221.180.237.183
+[2017-05-15 23:58:42] [ERROR] [PPPWnd.cpp:5929] - [PPLive PPP]请求节目：25597437，VVID：463A3322-33F7-4662-AF06-81EE543170D6
+[2017-05-15 23:59:25] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:47.036000,endTime:1494863965.322000, FailedUrl:http://client.aplus.pptv.com/static_page/rad, RemoteIP:221.180.237.183
+[2017-05-15 23:59:33] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:49.882000,endTime:1494863973.730000, FailedUrl:http://client-mini.pptv.com/index/hudong.html, RemoteIP:111.26.225.186
+[2017-05-15 23:59:37] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:13.623000,endTime:1494863977.798000, FailedUrl:http://static9.pplive.cn/mini/sp/v_20140928171421/logopage.html, RemoteIP:(null)
+[2017-05-15 23:59:41] [ERROR] [AdControl.cpp:815] - [PPLive admodule]------ABNORMITYLIVE-------检测到HTML5广告心跳超时，结束广告------
+[2017-05-15 23:59:46] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:59.494000,endTime:1494863986.449000, FailedUrl:http://player.as.pptv.com/html5/player.html#plat%3Dclt%26ver%3D4%2E0%2E4%2E0009%26vlen%3D2479%26slen%3D0%26pos%3D300104%26chid%3D9031777%26clid%3D0%26sid%3D25597437%26ctype%3D5%26o%3Dforqd23%26mac%3D0x001d7d2d3e91%26cltad%3Dobjad69834020%26aduid%3D2cdbc279627910d5359592d24b2d6105%26vvid%3D463A3322%2D33F7%2D4662%2DAF06%2D81EE543170D6%26ctx%3D%26username%3D%26rlen%3D128861652%26instname%3Dpptv%5F4%2E0%2E4%2E0009%5Fforqd8%26ptye%3D0, RemoteIP:111.26.225.186
+[2017-05-15 23:59:46] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:12.937000,endTime:1494863986.689000, FailedUrl:http://client-mini.pptv.com/index/hudong.html?hide=true, RemoteIP:111.26.225.186
+[2017-05-15 23:59:52] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:18.469000,endTime:1494863992.293000, FailedUrl:http://static.g.pptv.com/game/aplus/client/gamestop.html, RemoteIP:221.180.239.248
+[2017-05-15 23:59:53] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:57.897000,endTime:1494863993.050000, FailedUrl:http://client.aplus.pptv.com/minisite/normal/pg_home?plt=clt, RemoteIP:221.180.237.183
+[2017-05-15 23:59:53] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:70.030000,endTime:1494863993.054000, FailedUrl:http://client.aplus.pptv.com/minisite/normal?plt=clt, RemoteIP:221.180.237.183
+[2017-05-15 23:59:55] [ERROR] [AdControl.cpp:3482] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-15 23:59:55] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:31.715000,endTime:1494863995.890000, FailedUrl:http://client-mini.pptv.com/r/0/25597437/index.htm, RemoteIP:111.26.225.186
+[2017-05-16 00:00:23] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:23.098250,endTime:1494864023.689250, FailedUrl:http://client.aplus.pptv.com/minisite/normal/pg_huiyuan?plt=clt, RemoteIP:221.180.237.183
+[2017-05-16 00:00:44] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:20.008000,endTime:1494864044.533250, FailedUrl:http://client.aplus.pptv.com/minisite/normal/pg_performance?plt=clt, RemoteIP:221.180.237.183
+[2017-05-16 00:00:57] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:19.170000,endTime:1494864056.937250, FailedUrl:http://client.aplus.pptv.com/minisite/normal/pg_dragon?plt=clt, RemoteIP:221.180.237.183
+[2017-05-16 00:01:28] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:69.405250,endTime:1494864088.287250, FailedUrl:http://client.aplus.pptv.com/minisite/normal/pg_movie?plt=clt, RemoteIP:221.180.237.183
+[2017-05-16 00:01:34] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:39.907000,endTime:1494864094.037250, FailedUrl:http://client.aplus.pptv.com/minisite/normal/pg_star?plt=clt, RemoteIP:221.180.237.183
+[2017-05-16 00:01:51] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:18.090000,endTime:1494864111.408250, FailedUrl:http://static.g.pptv.com/game/aplus/client/g_mini.html, RemoteIP:221.180.239.248
+[2017-05-16 00:02:18] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:65.619000,endTime:1494864138.164250, FailedUrl:http://client.aplus.pptv.com/minisite/normal/pg_sport?plt=clt, RemoteIP:221.180.237.184
+[2017-05-21 18:08:26] [ERROR] [ChannelManager.cpp:8699] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\PPL7E.tmp
+[2017-05-21 18:08:33] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-05-21 18:08:35] [ERROR] [PPFrameWnd.cpp:3010] - [PPLive PPFrame]PPTV version:4.0.4.0009 customer:forqd23
+[2017-05-21 18:09:06] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:22.562000,endTime:1495361346.047125, FailedUrl:http://ads.aplus.pptv.com/ipservice/servicejump.html, RemoteIP:111.26.225.186
+[2017-05-21 18:09:06] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:30.344000,endTime:1495361346.094125, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:221.180.237.183
+[2017-05-21 18:09:06] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:35.516000,endTime:1495361346.172125, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:221.180.237.184
+[2017-05-21 18:09:08] [ERROR] [PPPWnd.cpp:5929] - [PPLive PPP]请求节目：9042721，VVID：05DF77C4-C27E-4FAD-8CC0-CAAAFC5290E8
+[2017-05-21 18:09:09] [ERROR] [XmlFileParser.cpp:180] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=8,debug=[]
+[2017-05-21 18:09:09] [ERROR] [PPPWnd.cpp:5929] - [PPLive PPP]请求节目：25985379，VVID：D78B7EFE-62E2-48F9-91A3-12FD0EB804AE
+[2017-05-21 18:09:15] [ERROR] [AdControl.cpp:3482] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:1--
+[2017-05-21 18:09:20] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:11.877000,endTime:1495361360.283125, FailedUrl:http://v.pptv.com/page/IRj0ctpAsO5Rzzc.html?plt=clt, RemoteIP:111.26.225.186
+[2017-05-21 18:11:34] [ERROR] [AdControl.cpp:3482] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-21 18:11:45] [ERROR] [PPPWnd.cpp:5679] - [PPLive PPP]请求节目：25985387，VVID：E8A8B0D4-07CD-4033-A292-10C8BA5870F5
+[2017-05-21 18:12:29] [ERROR] [PPFrameWnd.cpp:4085] - [PPLive PPFrame]***--UEsDBBQAAgAIAI+RtUrsaMzWuwAAAP8CAAAHABEAUHJvY2Vzc1VUDQAHDWghWQ1oIVkNaCFZ7ZGx
+DsIgEIZfxQdoHPQJTFcHmsbBGGMqPdumV45wFFufXgIMTXRSRweS78tx8MOdypktDCthSALzOYue
+8cC8hgkyySbRvVNIDakgDMZ1viMIcpX2sJMtsf2IYdJIBkyQfgKW3qKoqwRlU4k1EbKL6extSInq
+JmUKVhT+RRZkPLrC5uW6XrekwJpqDmpGVSNuN3/5lfgRfvW7foTHcjHSMs+RxjrxQUd6qPni16hr
+1qm0bBJi37k3uBMBnlBLAQIXCxQAAgAIAI+RtUrsaMzWuwAAAP8CAAAHAAkAAAAAAAAAAAAAgAAA
+AABQcm9jZXNzVVQFAAcNaCFZUEsFBgAAAAABAAEAPgAAAPEAAAAAAA==--***
+[2017-05-21 18:14:03] [ERROR] [PPPWnd.cpp:5929] - [PPLive PPP]请求节目：9042755，VVID：E8A8B0D4-07CD-4033-A292-10C8BA5870F5
+[2017-05-21 18:14:03] [ERROR] [XmlFileParser.cpp:180] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=8,debug=[]
+[2017-05-21 18:14:04] [ERROR] [PPPWnd.cpp:5929] - [PPLive PPP]请求节目：25992089，VVID：374C349F-721D-4C40-AB56-EE5BB31FF22B
+[2017-05-21 18:14:08] [ERROR] [AdControl.cpp:3482] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-21 18:14:09] [ERROR] [AdControl.cpp:3482] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:1--
+[2017-05-21 18:15:45] [ERROR] [AdControl.cpp:3482] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-05-21 18:15:45] [ERROR] [AdControl.cpp:3482] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-21 18:16:29] [ERROR] [PPPWnd.cpp:5679] - [PPLive PPP]请求节目：25992107，VVID：992520F1-E25B-4B6C-B6E6-545FCCC49B3A
+[2017-05-21 18:19:10] [ERROR] [AdControl.cpp:3482] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-21 18:32:42] [ERROR] [AdControl.cpp:3482] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-21 18:51:59] [ERROR] [AdControl.cpp:3482] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:1--
+[2017-05-21 18:52:42] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:42.305625,endTime:1495363961.797000, FailedUrl:http://client.aplus.pptv.com/player_loading_pic/, RemoteIP:221.180.237.183
+[2017-05-21 18:53:10] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:63.700625,endTime:1495363990.756000, FailedUrl:http://player.as.pptv.com/html5/player.html#plat%3Dclt%26ver%3D4%2E0%2E4%2E0009%26vlen%3D2725%26slen%3D6919%26pos%3D300104%26chid%3D9042755%26clid%3D139%26sid%3D25992107%26ctype%3D5%26o%3Dforqd23%26mac%3D0x001d7d2d3e91%26cltad%3Dobjad67179596%26aduid%3D2cdbc279627910d5359592d24b2d6105%26vvid%3D992520F1%2DE25B%2D4B6C%2DB6E6%2D545FCCC49B3A%26ctx%3D%26username%3D%26rlen%3D129361640%26instname%3Dpptv%5F4%2E0%2E4%2E0009%5Fforqd8%26ptye%3D5, RemoteIP:111.26.225.186
+[2017-05-21 18:54:48] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:160.830375,endTime:1495364088.228750, FailedUrl:http://client.aplus.pptv.com/static_page/barrage/pg_barrage2?plt=clt, RemoteIP:221.180.237.184
+[2017-05-21 18:55:05] [ERROR] [AdControl.cpp:3482] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-21 18:55:08] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:13.117000,endTime:1495364108.939750, FailedUrl:http://search.pptv.com/result?search_query=%E5%8F%B6%E6%8C%BA%E5%B0%86%E5%86%9B&plt=clt, RemoteIP:221.180.237.183
+[2017-05-21 18:55:12] [ERROR] [PPPWnd.cpp:5679] - [PPLive PPP]请求节目：25993089，VVID：DC5E83CB-71CD-48B0-8F89-F7B3CE82F89E
+[2017-05-21 18:57:02] [ERROR] [AdControl.cpp:3482] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-21 19:01:47] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:10.885375,endTime:1495364507.686750, FailedUrl:http://search.pptv.com/result?search_query=%E7%94%B5%E8%A7%86%E5%89%A7%E5%8F%B6%E6%8C%BA%E5%B0%86%E5%86%9B&plt=clt, RemoteIP:221.180.237.184
+[2017-05-21 19:01:59] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:11.676000,endTime:1495364519.530750, FailedUrl:http://search.pptv.com/result?search_query=%E7%94%B5%E8%A7%86%E5%89%A7%E5%8F%B6%E6%8C%BA%E5%B0%86%E5%86%9B&plt=clt, RemoteIP:221.180.237.184
+[2017-05-21 19:06:35] [ERROR] [AdControl.cpp:3482] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-21 19:28:40] [ERROR] [AdControl.cpp:3482] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-21 19:28:47] [ERROR] [AdControl.cpp:3482] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:1--
+[2017-05-21 19:29:00] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:16.309250,endTime:1495366140.333875, FailedUrl:http://client.aplus.pptv.com/player_loading_pic/, RemoteIP:221.180.237.184
+[2017-05-21 19:29:03] [ERROR] [AdControl.cpp:3482] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-21 19:29:03] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:15.741000,endTime:1495366143.867875, FailedUrl:http://client.aplus.pptv.com/static_page/barrage/pg_barrage2?plt=clt, RemoteIP:221.180.237.184
+[2017-05-21 19:29:05] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:18.015000,endTime:1495366145.928875, FailedUrl:http://player.as.pptv.com/html5/player.html#plat%3Dclt%26ver%3D4%2E0%2E4%2E0009%26vlen%3D2725%26slen%3D6225%26pos%3D300104%26chid%3D9042755%26clid%3D139%26sid%3D25993089%26ctype%3D5%26o%3Dforqd23%26mac%3D0x001d7d2d3e91%26cltad%3Dobjad67179596%26aduid%3D2cdbc279627910d5359592d24b2d6105%26vvid%3DDC5E83CB%2D71CD%2D48B0%2D8F89%2DF7B3CE82F89E%26ctx%3D%26username%3D%26rlen%3D129363850%26instname%3Dpptv%5F4%2E0%2E4%2E0009%5Fforqd8%26ptye%3D5, RemoteIP:(null)
+[2017-05-21 19:31:43] [ERROR] [PPPWnd.cpp:5679] - [PPLive PPP]请求节目：25993079，VVID：AFF2BDD3-ABF7-49AE-AD0D-7B081508EDD4
+[2017-05-21 19:47:34] [ERROR] [AdControl.cpp:3482] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-21 20:11:19] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:120.719750,endTime:1495368677.641250, FailedUrl:http://client.aplus.pptv.com/static_page/rad, RemoteIP:221.180.237.183
+[2017-05-21 20:13:05] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:14.531000,endTime:1495368785.676500, FailedUrl:http://static9.pplive.cn/mini/sp/v_20140928171421/logopage.html, RemoteIP:(null)
+[2017-05-21 20:13:16] [ERROR] [AdControl.cpp:3482] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-21 20:13:17] [ERROR] [PPPWnd.cpp:5929] - [PPLive PPP]请求节目：25993079，VVID：AFF2BDD3-ABF7-49AE-AD0D-7B081508EDD4
+[2017-05-21 20:13:23] [ERROR] [AdControl.cpp:3482] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-05-21 20:13:25] [ERROR] [AdControl.cpp:3482] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:1--
+[2017-05-21 20:17:13] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:11.070000,endTime:1495369033.915250, FailedUrl:http://static.g.pptv.com/game/aplus/client/gamestop.html, RemoteIP:221.180.239.248
+[2017-05-21 20:17:14] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:14.733625,endTime:1495369034.937875, FailedUrl:http://client-mini.pptv.com/r/139/25993079/index.htm, RemoteIP:111.26.225.186
+[2017-05-21 20:43:35] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:136.658125,endTime:1495370614.539125, FailedUrl:http://client.aplus.pptv.com/static_page/rad, RemoteIP:221.180.237.184
+[2017-05-21 20:48:21] [ERROR] [ChannelManager.cpp:8699] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\PPLE.tmp
+[2017-05-21 20:48:31] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-05-21 20:48:39] [ERROR] [PPFrameWnd.cpp:3010] - [PPLive PPFrame]PPTV version:4.0.4.0009 customer:forqd23
+[2017-05-21 20:48:41] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:11.156000,endTime:1495370921.140125, FailedUrl:http://client.aplus.pptv.com/static_page/level_tip/, RemoteIP:221.180.237.184
+[2017-05-21 20:49:15] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:10.437000,endTime:1495370955.890125, FailedUrl:http://ads.aplus.pptv.com/ipservice/servicejump.html, RemoteIP:111.26.225.186
+[2017-05-21 20:58:44] [ERROR] [ChannelManager.cpp:8699] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\PPL3D.tmp
+[2017-05-21 20:58:55] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-05-21 20:59:03] [ERROR] [PPFrameWnd.cpp:3010] - [PPLive PPFrame]PPTV version:4.0.4.0009 customer:forqd23
+[2017-05-21 20:59:03] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:15.236000,endTime:1495371543.925625, FailedUrl:http://client.aplus.pptv.com/static_page/vip_tip/pg_viptips, RemoteIP:221.180.237.183
+[2017-05-21 20:59:05] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:16.437000,endTime:1495371545.112625, FailedUrl:http://client.aplus.pptv.com/static_page/level_tip/, RemoteIP:221.180.237.183
+[2017-05-21 20:59:22] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:20.807000,endTime:1495371562.434625, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:221.180.237.184
+[2017-05-21 20:59:22] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:33.774000,endTime:1495371562.465625, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:221.180.237.183
+[2017-05-21 22:36:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 22:37:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 22:38:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 22:42:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 22:43:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 22:44:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 22:45:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 22:46:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 22:47:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 22:48:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 22:49:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 22:50:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 22:51:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 22:52:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 22:53:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 22:54:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 22:55:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 22:56:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 22:57:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 22:58:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 22:59:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:00:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:01:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:02:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:03:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:04:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:05:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:06:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:07:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:08:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:09:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:10:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:11:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:12:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:13:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:14:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:15:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:16:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:17:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:18:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:19:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:20:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:21:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:22:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:23:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:24:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:25:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:26:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:27:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:28:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:29:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:30:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:31:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:32:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:33:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:34:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:35:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:36:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:37:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:38:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:39:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:40:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:41:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:42:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:43:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:44:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:45:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:46:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:47:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:48:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:49:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:50:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:51:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:52:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:53:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:54:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:55:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:56:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:57:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:58:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-21 23:59:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:00:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:01:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:02:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:03:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:04:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:05:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:06:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:07:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:08:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:09:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:10:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:11:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:12:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:13:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:14:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:15:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:16:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:17:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:18:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:19:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:20:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:21:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:22:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:23:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:24:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:25:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:26:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:27:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:28:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:29:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:30:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:31:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:32:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:33:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:34:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:35:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:36:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:37:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:38:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:39:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:40:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:41:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:42:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:43:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:44:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:45:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:46:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:47:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:48:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:49:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:50:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:51:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:52:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:53:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:54:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:55:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:56:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:57:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:58:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 00:59:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:00:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:01:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:02:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:03:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:04:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:05:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:06:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:07:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:08:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:09:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:10:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:11:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:12:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:13:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:14:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:15:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:16:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:17:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:18:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:19:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:20:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:21:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:22:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:23:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:24:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:25:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:26:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:27:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:28:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:29:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:30:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:31:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:32:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:33:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:34:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:35:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:36:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:37:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:38:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:39:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:40:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:41:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:42:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:43:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:44:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:45:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:46:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:47:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:48:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:49:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:50:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:51:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:52:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:53:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:54:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:55:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:56:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:57:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:58:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 01:59:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 02:00:47] [ERROR] [Manager.cpp:2905] - [PPLive mngmodule]白名单限速，CreateToolhelp32Snapshot失败: getlasterror=31
+[2017-05-22 02:01:39] [FATAL] [CrashReporterHelper.cpp:1280] - [PPLive CrashReporter]CCrashReporterHelper::CrashLogAnalyse, 加载pprepair.dll失败,errorcode:126
+[2017-05-22 08:54:46] [ERROR] [ChannelManager.cpp:8699] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\PPL26.tmp
+[2017-05-22 08:54:47] [ERROR] [PPFrameWnd.cpp:3010] - [PPLive PPFrame]PPTV version:4.0.4.0009 customer:forqd23
+[2017-05-22 08:54:55] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-05-22 08:55:13] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:18.719000,endTime:1495414513.953125, FailedUrl:http://ads.aplus.pptv.com/ipservice/servicejump.html, RemoteIP:111.26.225.186
+[2017-05-22 08:56:16] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:85.109875,endTime:1495414572.126000, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:221.180.237.184
+[2017-05-22 08:56:16] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:85.719875,endTime:1495414572.157000, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:221.180.237.184
+[2017-05-22 08:57:55] [ERROR] [AdControl.cpp:3482] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-22 08:58:42] [ERROR] [PPFrameWnd.cpp:4085] - [PPLive PPFrame]***--UEsDBBQAAgAIAFZHtkp8vQJEtQAAALkBAAAHABEAUHJvY2Vzc1VUDQAHwjciWcI3IlnCNyJZnY9B
+DoIwEEWv4gGICz2BYasJpCtjXNQyFOLQIZ22wu0lUMTAwsTdf+2fzutN9Oyg2WWWFDDfk4kTbpj3
+0EGi2Mb0qg2SJjMCgw31MDECsowdDqoidn9l6FokC3aEZwesBprAPBQYF6+4JUIOc81Z2U+mrmyi
+XaGj30h5PvzOgZrWSNSb1c+2IrO8ZL0pEI+HH5Bl5zrAOq4qp2x7KtIUyRez3FV8yYr04p2XOBfJ
+lLX+NJe5N1BLAQIXCxQAAgAIAFZHtkp8vQJEtQAAALkBAAAHAAkAAAAAAAAAAAAAgAAAAABQcm9j
+ZXNzVVQFAAfCNyJZUEsFBgAAAAABAAEAPgAAAOsAAAAAAA==--***

@@ -1,0 +1,37 @@
+﻿[2017-05-22 08:46:34] [PPTVSvc.cpp:62] [ERROR]  - [PPLive PPTVSvc]OpenService failed (1060)
+
+[2017-05-22 08:46:36] [PPTVSvc.cpp:456] [ERROR]  - [PPLive PPTVSvc]OpenService failed (1060)
+
+[2017-05-22 08:49:01] [ERROR] [ChannelManager.cpp:8699] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL5F9.tmp
+[2017-05-22 08:49:01] [ERROR] [ChannelManager.cpp:10731] - [PPLive NCList]CChannelManager::ChangeRealUserPPI user() oldct(1)newct(999),oldcool(0),newcool(1),oldtype(1)newtype(2),oldppi()newppi(312c393939)
+[2017-05-22 08:49:08] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-05-22 08:50:01] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=2, ErrorReason:errorCode:-324, FailedUrl:http://clientweb.pptv.com/index, RemoteIP:(null)
+[2017-05-22 08:50:01] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:54.928000,endTime:1495414201.667798, FailedUrl:http://client.aplus.pptv.com/static_page/vip_tip/pg_viptips, RemoteIP:211.91.161.101
+[2017-05-22 08:50:34] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:87.281506,endTime:1495414234.021304, FailedUrl:http://client.aplus.pptv.com/static_page/level_tip/, RemoteIP:211.91.161.101
+[2017-05-22 08:50:48] [ERROR] [PPFrameWnd.cpp:3010] - [PPLive PPFrame]PPTV version:4.0.4.0009 customer:forqd1
+[2017-05-22 08:51:32] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:146.187613,endTime:1495414292.927411, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:211.91.161.101
+[2017-05-22 08:51:33] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:44.538107,endTime:1495414293.598411, FailedUrl:http://client.aplus.pptv.com/static_page/login1/pg_login4.0, RemoteIP:211.91.161.101
+[2017-05-22 08:52:12] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:37.752507,endTime:1495414332.504918, FailedUrl:http://static.qipao.pptv.com/api/get_vip_bubble?id=20642&plt=clt, RemoteIP:211.91.161.101
+[2017-05-22 08:53:33] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:262.641425,endTime:1495414413.843223, FailedUrl:http://tv.pptv.com/?plt=clt, RemoteIP:182.118.24.201
+[2017-05-22 08:55:03] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:89.123505,endTime:1495414502.982728, FailedUrl:http://tv.pptv.com/?plt=clt, RemoteIP:182.118.24.201
+[2017-05-22 08:55:28] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:23.399306,endTime:1495414528.410034, FailedUrl:http://tv.pptv.com/?plt=clt, RemoteIP:(null)
+[2017-05-22 08:55:28] [ERROR] [Utils\Utils.cpp:969] - [PPLive ProductUpdate]P2P下载超时
+
+[2017-05-22 08:55:47] [ERROR] [Utils\Utils.cpp:780] - [PPLive ProductUpdate]HTTP下载速度 5 kb/s
+
+[2017-05-22 08:56:34] [ERROR] [PPPWnd.cpp:5929] - [PPLive PPP]请求节目：9042526，VVID：324C562A-67A6-493B-9FEC-AECDBD7284D9
+[2017-05-22 08:56:34] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:63.882505,endTime:1495414592.323539, FailedUrl:http://list.pptv.com/?type=2&area=5&plt=clt, RemoteIP:211.91.161.100
+[2017-05-22 08:56:38] [ERROR] [XmlFileParser.cpp:180] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=24,debug=[<debug uip="115.56.37.117" sip="10.206.189.195" fb="Z" trace="channelid:9042526|pre:client" />
+]
+[2017-05-22 08:56:38] [DIAGNOSE] [PPPWnd.cpp:8962] - [PPLive PPP][PlayerError] ErrorCode=46; ErrorMessage=playError_Userinfo_NameEmpty; UserName=(null); UserLevelType=REAL; CityCode=999; IP=192.168.0.43; referer=http://list.pptv.com/?type=2&area=5&plt=clt; ChannelSource=26; Debug=null; DiskId=2bb1ca853d1a3e367b0169a5754d6750; ppi=312c393939; json={"a":9042526,"b":0,"c":0,"content":2,"d":0,"ft":-1,"ftall":0,"g":1,"h":-2147483648,"hjid":0,"hjname":"","hjtype":0,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":0,"rsid":0,"url":"pptv://0a2lmaqXpaKij9iioJbWpqY=","userinfo":false,"username":"","usertype":-1,"vip":0,"vtp":0}
+[2017-05-22 08:56:58] [ERROR] [PPFrameWnd.cpp:4085] - [PPLive PPFrame]***--UEsDBBQAAgAIACBHtkre50dhuAEAAM4DAAAHABEAUHJvY2Vzc1VUDQAHWjciWVo3IllaNyJZpVNh
+b9owEP0r/QEIpcAQ/ZiGoKHC5uI0dJsm5DnXYOHYlu2E8O9r7CZly8clivTe3T3n3l3yC1+MheoO
+aUnBmN+jwEemMmYMLYyo0QN0ZsLdtsNcllJ4YkA3zJ3jCTfEdKgK6YYepQm652eU7DI0iP8P3mVP
+8cty/R2nu3ydpPPZOH1NR7s4fywdvlb8PNZLKcoVEeWPeqA/cyKgDZhK0cdPLRgqNXhSnIMZaBV3
+MT04xRJz6klRfszEM6TBgLDEMilWUtiE0CP048g0uXRESwt06HAjKbEyvHM6j3oFK99a28u3y40H
+xxOtij6vQId13A7E4UTxT9In8u10en/A2drP8NreN7ArLs8+q2tRcD6dDEltGWc2NJIK0OXlbksE
+KaFyxj83D4RnrAKsAIpaBZ9KOaudtbi2MuFAwoeFk69ZjJ98L2i/XT7iPOkqMXmDwaCUso0BW6vD
+bByN3RNFD4fJJLpe99F8ES1ms8niS/B60m5OnMEfIj3PdO1+gmItjCWcf6xYNE3XnmjawlwE/Td+
+2wBCG9bAEMboJvbSeTCDyhx3Fv/a/1WkCmLBiXxkXzGkG5x68g5QSwECFwsUAAIACAAgR7ZK3udH
+YbgBAADOAwAABwAJAAAAAAAAAAAAAIAAAAAAUHJvY2Vzc1VUBQAHWjciWVBLBQYAAAAAAQABAD4A
+AADuAQAAAAA=--***

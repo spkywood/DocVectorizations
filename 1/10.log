@@ -1,0 +1,753 @@
+﻿[2017-04-14 20:25:29] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=2, ErrorReason:errorCode:-6, FailedUrl:file:///C:/Program%20Files%20(x86)/PPLive/PPTV/4.0.2.0035/data/tips_big/tips4.html?url=http%3A%2F%2Fclient%2Eaplus%2Epptv%2Ecom%2Fstatic%5Fpage%2Fvip%5Ftip%2Fpg%5Fviptips, RemoteIP:(null)
+[2017-04-14 20:25:42] [ERROR] [ChannelManager.cpp:8675] - [PPLive NCList]CChannelManager::ProcessRealUser failed.result:800c0005
+[2017-04-14 20:25:51] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-04-14 20:25:56] [ERROR] [ChannelManager.cpp:8675] - [PPLive NCList]CChannelManager::ProcessRealUser failed.result:800c0005
+[2017-04-14 20:26:10] [ERROR] [ChannelManager.cpp:8675] - [PPLive NCList]CChannelManager::ProcessRealUser failed.result:800c0005
+[2017-04-14 20:26:11] [ERROR] [FlowHandler.cpp:174] - [PPLive ProductUpdate]Failed to download INI!
+[2017-04-15 08:31:56] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL48FF.tmp
+[2017-04-15 08:32:00] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-04-16 10:17:20] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL2B36.tmp
+[2017-04-16 10:17:20] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-04-16 10:17:30] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-04-16 10:45:47] [ERROR] [Passport.cpp:281] - [PPLive NCList]passport LogoutWithReason:0
+[2017-04-17 08:49:06] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL2AB9.tmp
+[2017-04-17 09:06:10] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-04-17 09:06:10] [ERROR] [Passport.cpp:281] - [PPLive NCList]passport LogoutWithReason:0
+[2017-04-19 15:19:00] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL2EBF.tmp
+[2017-04-19 15:19:01] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-04-19 15:19:10] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-04-19 15:19:16] [ERROR] [Passport.cpp:281] - [PPLive NCList]passport LogoutWithReason:0
+[2017-04-19 15:43:19] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=2, ErrorReason:errorCode:-103, FailedUrl:http://static.qipao.pptv.com/api/get_bubble?id=19928&fb=53&user=0, RemoteIP:(null)
+[2017-04-21 07:33:18] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL4AF6.tmp
+[2017-04-21 07:33:18] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-04-21 07:33:27] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-04-21 07:36:28] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:189.981828,endTime:1492731388.089860, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:218.6.223.220
+[2017-04-21 07:36:28] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:190.097828,endTime:1492731388.105860, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:218.6.223.221
+[2017-04-21 07:36:44] [ERROR] [Passport.cpp:281] - [PPLive NCList]passport LogoutWithReason:0
+[2017-04-21 18:27:44] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL3C56.tmp
+[2017-04-21 18:27:45] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-04-21 18:28:10] [ERROR] [Passport.cpp:281] - [PPLive NCList]passport LogoutWithReason:0
+[2017-04-24 19:44:21] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL2B72.tmp
+[2017-04-24 19:44:22] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-04-24 19:44:31] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-04-24 19:45:24] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:53.781292,endTime:1493034324.909712, FailedUrl:http://mmae.qtmojo.com/x?_t=8&_m=1476_2394_326-37&_k=allyes_show_ads_39511771493034271128&_page=http%3A%2F%2Fclient.aplus.pptv.com%2Fmenu%2Fpg_nav&_rt=0&_pf=Win32&_h=768&_w=1366&_pxr=1&_qe=, RemoteIP:115.236.76.105
+[2017-04-24 19:45:24] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:62.907292,endTime:1493034324.909712, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:218.6.223.221
+[2017-04-24 19:45:24] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:63.349292,endTime:1493034324.929712, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:218.6.223.221
+[2017-04-25 08:07:31] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL2B46.tmp
+[2017-04-25 08:07:31] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-04-25 08:08:00] [ERROR] [Passport.cpp:281] - [PPLive NCList]passport LogoutWithReason:0
+[2017-04-25 08:13:44] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPLDD36.tmp
+[2017-04-25 08:13:44] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-04-25 08:13:49] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：9042444，VVID：BB6C4D3E-0942-4729-B9F3-2505301DCFC0
+[2017-04-25 08:13:49] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=8,debug=[sip=10.208.185.227,ac:D]
+[2017-04-25 08:13:56] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25823497，VVID：661FC925-86D2-43A7-B0F4-3D48B57D07B5
+[2017-04-25 08:13:58] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 08:14:04] [ERROR] [ChannelManager.cpp:510] - [PPLive NCList]右侧栏下载失败,url=http://client-list.pptv.com/v3/chmoreinfo-9042444.xml&version=4&userLevel=1&fb=53&virtual=1&siteid=0&c=1500&s=1
+[2017-04-25 08:15:15] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-04-25 08:15:15] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-04-25 08:15:15] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 08:16:54] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 08:43:27] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-2--
+[2017-04-25 09:35:15] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 09:41:50] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-04-25 09:41:50] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 09:45:17] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-04-25 09:45:17] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 09:48:37] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 10:00:16] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 10:15:29] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-04-25 10:15:30] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：300146，VVID：A27FBCFA-F927-4400-B070-D95245C7A809
+[2017-04-25 10:15:30] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:17.190000,endTime:1493086530.214225, FailedUrl:http://client.aplus.pptv.com/player_loading_pic/, RemoteIP:218.6.223.221
+[2017-04-25 10:15:31] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 10:16:35] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:10.747000,endTime:1493086595.172217, FailedUrl:http://static9.pplive.cn/mini/sp/v_20140928171421/logopage.html, RemoteIP:183.222.102.222
+[2017-04-25 10:16:44] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25828403，VVID：7D6B9AC3-F447-4ADF-8A87-9E6B0C1E017A
+[2017-04-25 10:16:45] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 10:16:50] [ERROR] [ChannelManager.cpp:510] - [PPLive NCList]右侧栏下载失败,url=http://client-list.pptv.com/v3/chmoreinfo-9042445.xml&version=4&userLevel=1&fb=53&virtual=1&siteid=0&c=1500&s=1
+[2017-04-25 10:18:03] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:1--
+[2017-04-25 10:18:04] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25832709，VVID：9E46B765-3B4B-41A5-AAC0-9C762652AC06
+[2017-04-25 10:23:04] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 10:26:06] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 10:26:11] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 10:43:13] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25832765，VVID：9E46B765-3B4B-41A5-AAC0-9C762652AC06
+[2017-04-25 10:43:13] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25832765，VVID：655DF144-56E8-416A-8A69-A7FDA306C2FA
+[2017-04-25 10:43:14] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 10:43:16] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25832709，VVID：218389BE-B094-4B90-AA38-4F58EC4255DD
+[2017-04-25 10:43:18] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 10:43:29] [ERROR] [ChannelManager.cpp:510] - [PPLive NCList]右侧栏下载失败,url=http://client-list.pptv.com/v3/chmoreinfo-9042444.xml&version=4&userLevel=1&fb=53&virtual=1&siteid=0&c=1500&s=1
+[2017-04-25 10:44:33] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25832765，VVID：941AB2C7-3C6E-4AEE-8927-7482769EC51F
+[2017-04-25 10:44:45] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:1--
+[2017-04-25 10:49:45] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 10:58:03] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 10:58:18] [ERROR] [ChannelManager.cpp:510] - [PPLive NCList]右侧栏下载失败,url=http://client-list.pptv.com/v3/chmoreinfo-9042444.xml&version=4&userLevel=1&fb=53&virtual=1&siteid=0&c=1500&s=1
+[2017-04-25 10:59:20] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-04-25 10:59:29] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25836043，VVID：298106FF-5D81-43E4-A1B9-53AA6E208CE3
+[2017-04-25 11:04:21] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 11:24:44] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 11:24:58] [ERROR] [ChannelManager.cpp:510] - [PPLive NCList]右侧栏下载失败,url=http://client-list.pptv.com/v3/chmoreinfo-9042444.xml&version=4&userLevel=1&fb=53&virtual=1&siteid=0&c=1500&s=1
+[2017-04-25 11:25:54] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25839705，VVID：B45F20D2-99D9-4AD8-9A1E-B258EA8B6726
+[2017-04-25 11:26:02] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-04-25 11:31:02] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 11:42:48] [ERROR] [PPPWnd.cpp:8635] - [PPLive PPP]PPAP下错数据次数:3,PPAP崩溃次数:0
+[2017-04-25 11:42:49] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 11:43:03] [ERROR] [ChannelManager.cpp:510] - [PPLive NCList]右侧栏下载失败,url=http://client-list.pptv.com/v3/chmoreinfo-9042444.xml&version=4&userLevel=1&fb=53&virtual=1&siteid=0&c=1500&s=1
+[2017-04-25 11:43:52] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-04-25 11:43:55] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25843103，VVID：D5ADB8DB-8AFA-47DF-9F67-A2EB226EA3C5
+[2017-04-25 11:48:52] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 11:58:16] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 11:58:17] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 11:58:31] [ERROR] [ChannelManager.cpp:510] - [PPLive NCList]右侧栏下载失败,url=http://client-list.pptv.com/v3/chmoreinfo-9042444.xml&version=4&userLevel=1&fb=53&virtual=1&siteid=0&c=1500&s=1
+[2017-04-25 11:59:20] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-04-25 11:59:27] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25843241，VVID：9904859E-8A8E-4333-A6FA-C26E796286C6
+[2017-04-25 12:04:21] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 12:07:23] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 12:26:26] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25843103，VVID：9904859E-8A8E-4333-A6FA-C26E796286C6
+[2017-04-25 12:26:32] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25843241，VVID：F33DFE58-9BAA-4F09-9C9C-83EC37454F20
+[2017-04-25 12:26:47] [ERROR] [ChannelManager.cpp:510] - [PPLive NCList]右侧栏下载失败,url=http://client-list.pptv.com/v3/chmoreinfo-9042444.xml&version=4&userLevel=1&fb=53&virtual=1&siteid=0&c=1500&s=1
+[2017-04-25 12:27:35] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:1--
+[2017-04-25 12:27:47] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 12:27:48] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 12:28:03] [ERROR] [ChannelManager.cpp:510] - [PPLive NCList]右侧栏下载失败,url=http://client-list.pptv.com/v3/chmoreinfo-9042444.xml&version=4&userLevel=1&fb=53&virtual=1&siteid=0&c=1500&s=1
+[2017-04-25 12:29:07] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25844997，VVID：438EBC6A-B44B-4C4B-A621-4136B50AE31A
+[2017-04-25 12:29:09] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-04-25 12:34:10] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 12:42:44] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 12:46:48] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 12:47:03] [ERROR] [ChannelManager.cpp:510] - [PPLive NCList]右侧栏下载失败,url=http://client-list.pptv.com/v3/chmoreinfo-9042444.xml&version=4&userLevel=1&fb=53&virtual=1&siteid=0&c=1500&s=1
+[2017-04-25 12:47:45] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25845001，VVID：B5A5601D-0DAA-43AB-8128-CF14764233B3
+[2017-04-25 12:48:21] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-04-25 12:53:22] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 12:57:39] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 13:08:06] [ERROR] [PPPWnd.cpp:8635] - [PPLive PPP]PPAP下错数据次数:3,PPAP崩溃次数:0
+[2017-04-25 13:08:08] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 13:09:03] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25847053，VVID：EBB7268D-6B3D-42ED-8760-5FB8499CBFD7
+[2017-04-25 13:09:25] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-04-25 13:14:26] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 13:26:02] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 13:26:16] [ERROR] [ChannelManager.cpp:510] - [PPLive NCList]右侧栏下载失败,url=http://client-list.pptv.com/v3/chmoreinfo-9042444.xml&version=4&userLevel=1&fb=53&virtual=1&siteid=0&c=1500&s=1
+[2017-04-25 13:26:59] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25847093，VVID：E114A4A8-A9AC-460A-80BC-C110485C02B4
+[2017-04-25 13:27:20] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-04-25 13:30:36] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 13:32:20] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 16:10:50] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL2CCC.tmp
+[2017-04-25 16:10:50] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-04-25 16:12:00] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:19.960127,endTime:1493107920.870149, FailedUrl:http://tv.pptv.com/?plt=clt, RemoteIP:218.6.223.221
+[2017-04-25 16:12:44] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：9042444，VVID：FFE26A8A-5828-4DFF-9670-78D5DF5754E1
+[2017-04-25 16:12:44] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=8,debug=[sip=10.208.188.233,ac:D]
+[2017-04-25 16:12:45] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25847053，VVID：AACDDA75-B56A-4C21-9C79-05B057748A33
+[2017-04-25 16:12:47] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 16:13:00] [ERROR] [ChannelManager.cpp:510] - [PPLive NCList]右侧栏下载失败,url=http://client-list.pptv.com/v3/chmoreinfo-9042444.xml&version=4&userLevel=1&fb=53&virtual=1&siteid=0&c=1500&s=1
+[2017-04-25 16:13:11] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:22.026377,endTime:1493107991.760526, FailedUrl:http://mmae.qtmojo.com/x?_t=8&_m=1476_2394_326-37&_k=allyes_show_ads_33025361493107969724&_page=http%3A%2F%2Fclient.aplus.pptv.com%2Fmenu%2Fpg_nav&_rt=0&_pf=Win32&_h=768&_w=1366&_pxr=1&_qe=, RemoteIP:115.236.76.105
+[2017-04-25 16:13:11] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:26.857377,endTime:1493107991.761526, FailedUrl:http://v.pptv.com/page/DDQgngZs3Bp9ib2M.html?plt=clt, RemoteIP:218.6.223.220
+[2017-04-25 16:13:14] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25847093，VVID：0849CEED-3D0D-412F-98D3-895CDC0D138D
+[2017-04-25 16:13:16] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 16:14:16] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25852211，VVID：A53E0D13-B685-400E-9F04-7D75946FEC57
+[2017-04-25 16:14:34] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-04-25 16:19:34] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 16:26:23] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 16:27:07] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25852215，VVID：180112C4-9C5A-4357-AE17-705FC155388C
+[2017-04-25 16:27:41] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-04-25 16:32:41] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 16:33:37] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 16:33:52] [ERROR] [ChannelManager.cpp:510] - [PPLive NCList]右侧栏下载失败,url=http://client-list.pptv.com/v3/chmoreinfo-9042444.xml&version=4&userLevel=1&fb=53&virtual=1&siteid=0&c=1500&s=1
+[2017-04-25 16:34:34] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25856201，VVID：E8F385F4-2FEA-4577-8117-4F60A2882612
+[2017-04-25 16:34:55] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-04-25 16:39:55] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 16:41:52] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 16:43:00] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25856283，VVID：0F5A503F-5073-44E8-9A11-69D13855BF61
+[2017-04-25 16:43:10] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-04-25 16:46:27] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 16:47:37] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25860181，VVID：5ED7D96F-7703-4DB7-A8A1-219500E32031
+[2017-04-25 16:47:45] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-04-25 16:52:27] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 16:52:41] [ERROR] [ChannelManager.cpp:510] - [PPLive NCList]右侧栏下载失败,url=http://client-list.pptv.com/v3/chmoreinfo-9042444.xml&version=4&userLevel=1&fb=53&virtual=1&siteid=0&c=1500&s=1
+[2017-04-25 16:53:24] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25863047，VVID：41B52686-EBCB-4CD7-9FE4-947FFD35542B
+[2017-04-25 16:53:49] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-04-25 16:53:49] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-04-25 16:53:49] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 16:58:23] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 16:58:37] [ERROR] [ChannelManager.cpp:510] - [PPLive NCList]右侧栏下载失败,url=http://client-list.pptv.com/v3/chmoreinfo-9042444.xml&version=4&userLevel=1&fb=53&virtual=1&siteid=0&c=1500&s=1
+[2017-04-25 16:59:30] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25865247，VVID：9525BD93-4CD4-42E0-B629-B1B3922BB43B
+[2017-04-25 16:59:40] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:1--
+[2017-04-25 17:00:16] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-04-25 17:00:16] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 17:00:28] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-04-25 17:00:55] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-04-25 17:00:55] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 17:04:40] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 17:06:31] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-25 17:06:45] [ERROR] [ChannelManager.cpp:510] - [PPLive NCList]右侧栏下载失败,url=http://client-list.pptv.com/v3/chmoreinfo-9042444.xml&version=4&userLevel=1&fb=53&virtual=1&siteid=0&c=1500&s=1
+[2017-04-25 17:07:26] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25865277，VVID：0CCE85EC-0415-4319-9957-BB8545D913E3
+[2017-04-25 17:07:48] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-04-25 17:12:48] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-04-29 08:08:38] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL2E71.tmp
+[2017-04-29 08:08:39] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-04-29 08:08:48] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-04-29 08:09:04] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:21.122000,endTime:1493424544.064018, FailedUrl:http://google.cifenqi.com/pos/300x250/hm/v.html, RemoteIP:(null)
+[2017-04-29 08:09:04] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:21.282000,endTime:1493424544.234018, FailedUrl:http://w.365hsh.com/webSite/ggj/iframe.html, RemoteIP:(null)
+[2017-04-29 08:09:06] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:0,elapsedTime:21.020000,endTime:1493424546.354018, FailedUrl:about:srcdoc, RemoteIP:(null)
+[2017-04-29 08:09:06] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:21.680000,endTime:1493424546.354018, FailedUrl:http://ygg.sunpcm.com/jk/yg_219010201.html, RemoteIP:(null)
+[2017-04-29 08:09:06] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:21.690000,endTime:1493424546.354018, FailedUrl:http://df.xsplg.com/jk/yg_219010201_rk.html, RemoteIP:(null)
+[2017-04-29 08:09:06] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:22.690000,endTime:1493424546.354018, FailedUrl:http://ygg.sunpcm.com/jk/yg_300_01.html, RemoteIP:(null)
+[2017-04-29 08:09:06] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:22.720000,endTime:1493424546.354018, FailedUrl:http://ygg.sunpcm.com/jk/yg_300_01_rk.html, RemoteIP:(null)
+[2017-04-29 08:09:06] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:22.910000,endTime:1493424546.354018, FailedUrl:http://js.pgyst.net/jsyh/cnzz/cl_300_01.html, RemoteIP:117.172.6.194
+[2017-04-29 08:09:27] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:0,elapsedTime:18.720000,endTime:1493424567.364018, FailedUrl:about:srcdoc, RemoteIP:(null)
+[2017-04-29 08:09:27] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:19.080000,endTime:1493424567.364018, FailedUrl:http://ygg.sunpcm.com/jk/yg_219010201.html, RemoteIP:(null)
+[2017-04-29 08:09:27] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:19.080000,endTime:1493424567.364018, FailedUrl:http://df.xsplg.com/jk/yg_219010201_rk.html, RemoteIP:(null)
+[2017-04-29 08:09:27] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:19.660000,endTime:1493424567.364018, FailedUrl:http://ygg.sunpcm.com/jk/yg_300_01.html, RemoteIP:(null)
+[2017-04-29 08:09:27] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:19.660000,endTime:1493424567.364018, FailedUrl:http://ygg.sunpcm.com/jk/yg_300_01_rk.html, RemoteIP:(null)
+[2017-04-29 08:11:55] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:196.963549,endTime:1493424715.803567, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:218.6.223.220
+[2017-04-29 08:11:55] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:197.118549,endTime:1493424715.818567, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:218.6.223.220
+[2017-04-29 08:13:45] [ERROR] [Passport.cpp:281] - [PPLive NCList]passport LogoutWithReason:0
+[2017-05-02 21:46:08] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL2C30.tmp
+[2017-05-02 21:46:09] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-05-02 21:46:18] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-05-02 21:47:20] [ERROR] [FlowHandler.cpp:174] - [PPLive ProductUpdate]Failed to download INI!
+[2017-05-02 21:51:30] [ERROR] [Passport.cpp:281] - [PPLive NCList]passport LogoutWithReason:0
+[2017-05-04 07:18:29] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL2B07.tmp
+[2017-05-04 07:18:29] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-05-04 07:18:39] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-05-04 08:05:03] [ERROR] [Passport.cpp:281] - [PPLive NCList]passport LogoutWithReason:0
+[2017-05-04 10:28:29] [ERROR] [ChannelManager.cpp:8675] - [PPLive NCList]CChannelManager::ProcessRealUser failed.result:800c0005
+[2017-05-04 10:28:29] [ERROR] [ChannelManager.cpp:8675] - [PPLive NCList]CChannelManager::ProcessRealUser failed.result:800c0005
+[2017-05-04 10:28:29] [ERROR] [ChannelManager.cpp:8675] - [PPLive NCList]CChannelManager::ProcessRealUser failed.result:800c0005
+[2017-05-04 10:28:29] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=2, ErrorReason:errorCode:-6, FailedUrl:file:///C:/Program%20Files%20(x86)/PPLive/PPTV/4.0.2.0035/data/tips_big/tips4.html?url=http%3A%2F%2Fclient%2Eaplus%2Epptv%2Ecom%2Fstatic%5Fpage%2Fvip%5Ftip%2Fpg%5Fviptips, RemoteIP:(null)
+[2017-05-04 10:59:03] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-05-04 10:59:04] [ERROR] [Passport.cpp:281] - [PPLive NCList]passport LogoutWithReason:0
+[2017-05-05 21:28:15] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL3785.tmp
+[2017-05-05 21:28:15] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-05-05 21:28:24] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-05-05 21:28:32] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:504,elapsedTime:10.383000,endTime:1493990912.950037, FailedUrl:http://wmcdn.qtmojo.cn/adxcm_base.htm, RemoteIP:117.177.241.25
+[2017-05-05 21:28:43] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:504,elapsedTime:20.650000,endTime:1493990923.226037, FailedUrl:http://wmcdn.qtmojo.cn/adxcm_base.htm, RemoteIP:117.177.241.25
+[2017-05-05 21:28:44] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:18.359000,endTime:1493990924.676037, FailedUrl:http://ygg.sunpcm.com/jk/yg_219010201.html, RemoteIP:(null)
+[2017-05-05 21:28:44] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:18.359000,endTime:1493990924.676037, FailedUrl:http://df.xsplg.com/jk/yg_219010201_rk.html, RemoteIP:(null)
+[2017-05-05 21:28:44] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:22.990000,endTime:1493990924.676037, FailedUrl:http://js.pgyst.net/jsyh/cnzz/cl_300_01.html, RemoteIP:117.172.6.194
+[2017-05-05 21:29:26] [ERROR] [FlowHandler.cpp:174] - [PPLive ProductUpdate]Failed to download INI!
+[2017-05-05 21:29:40] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:504,elapsedTime:77.852360,endTime:1493990980.437397, FailedUrl:http://wmcdn.qtmojo.cn/adxcm_base.htm, RemoteIP:117.177.241.31
+[2017-05-05 21:37:06] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:531.058386,endTime:1493991426.287423, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:218.6.223.221
+[2017-05-05 21:37:06] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:531.261386,endTime:1493991426.320423, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:218.6.223.221
+[2017-05-05 21:43:31] [ERROR] [Passport.cpp:281] - [PPLive NCList]passport LogoutWithReason:0
+[2017-05-06 13:28:09] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL35A1.tmp
+[2017-05-06 13:28:09] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-05-06 13:29:03] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:53.950000,endTime:1494048543.476228, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:218.6.223.221
+[2017-05-06 13:29:03] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:54.237000,endTime:1494048543.506228, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:218.6.223.220
+[2017-05-06 13:31:15] [ERROR] [Passport.cpp:281] - [PPLive NCList]passport LogoutWithReason:0
+[2017-05-06 16:05:56] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL364D.tmp
+[2017-05-06 16:05:57] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-05-06 16:06:51] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:54.389000,endTime:1494058011.266776, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:218.6.223.220
+[2017-05-06 16:06:51] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:55.056000,endTime:1494058011.276776, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:218.6.223.220
+[2017-05-07 09:30:20] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL3708.tmp
+[2017-05-07 09:30:20] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-05-07 09:30:29] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-05-07 14:14:21] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL3812.tmp
+[2017-05-07 14:14:21] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-05-07 14:14:31] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:10.163000,endTime:1494137671.738184, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:218.6.223.221
+[2017-05-07 14:14:31] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:10.491000,endTime:1494137671.758184, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:218.6.223.220
+[2017-05-07 14:16:07] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=3, ErrorReason:httpStatusCode:500, FailedUrl:http://tv.pptv.com/?plt=clt, RemoteIP:218.6.223.220
+[2017-05-07 14:17:58] [ERROR] [Passport.cpp:281] - [PPLive NCList]passport LogoutWithReason:0
+[2017-05-08 11:16:23] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL35B0.tmp
+[2017-05-08 11:16:33] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-05-09 08:17:50] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL3592.tmp
+[2017-05-09 08:17:51] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-05-09 08:18:06] [ERROR] [Passport.cpp:281] - [PPLive NCList]passport LogoutWithReason:0
+[2017-05-10 07:12:18] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL3726.tmp
+[2017-05-10 07:12:19] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-05-10 07:12:28] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-05-10 07:13:00] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:41.645000,endTime:1494371580.508168, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:218.6.223.220
+[2017-05-10 07:13:00] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:41.886000,endTime:1494371580.528168, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:218.6.223.220
+[2017-05-10 07:36:26] [ERROR] [Passport.cpp:281] - [PPLive NCList]passport LogoutWithReason:0
+[2017-05-10 16:01:16] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL3F9F.tmp
+[2017-05-10 16:01:17] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-05-10 16:02:16] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:59.290000,endTime:1494403336.448112, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:218.6.223.221
+[2017-05-10 16:02:16] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:59.674000,endTime:1494403336.468112, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:218.6.223.221
+[2017-05-11 08:58:01] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL3802.tmp
+[2017-05-11 08:58:02] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-05-11 08:58:11] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-05-11 08:58:52] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:50.135000,endTime:1494464332.792264, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:218.6.223.220
+[2017-05-11 08:58:52] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:50.464000,endTime:1494464332.802264, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:218.6.223.221
+[2017-05-11 09:00:39] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:25.272000,endTime:1494464439.106000, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:218.6.223.220
+[2017-05-11 09:01:03] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：9042526，VVID：E11CD628-5B36-4B72-935B-C8E537ABFD89
+[2017-05-11 09:01:04] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=8,debug=[sip=10.208.188.90,ac:D]
+[2017-05-11 09:01:04] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:24.897000,endTime:1494464464.019000, FailedUrl:http://tv.pptv.com/?plt=clt, RemoteIP:218.6.223.221
+[2017-05-11 09:01:04] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25868709，VVID：4E6C8015-35C0-47BE-8185-4822A7AB59DE
+[2017-05-11 09:01:07] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 09:01:10] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：9042526，VVID：F9B14602-6753-4265-885F-0B64EE7B88B8
+[2017-05-11 09:01:11] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=8,debug=[sip=10.208.185.228,ac:D]
+[2017-05-11 09:01:11] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25868709，VVID：D72F5D2E-8007-420A-B5FF-18256A28B5DC
+[2017-05-11 09:01:12] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 09:01:15] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:11.620479,endTime:1494464475.655479, FailedUrl:http://v.pptv.com/page/XuLOTLQaiasgrqRE.html?plt=clt, RemoteIP:218.6.223.220
+[2017-05-11 09:01:15] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:61.842479,endTime:1494464475.660479, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:(null)
+[2017-05-11 09:01:16] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:12.540479,endTime:1494464476.606479, FailedUrl:http://client.aplus.pptv.com/static_page/rad, RemoteIP:218.6.223.220
+[2017-05-11 09:01:57] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25868751，VVID：6CA0158C-E5EC-4D33-A828-F48976ED0EA2
+[2017-05-11 09:02:31] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-05-11 09:07:31] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 09:20:27] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 09:32:31] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 09:34:01] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 09:34:02] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 09:34:47] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25868843，VVID：2BCF1AC4-C7F5-4EE3-8743-42C4FF2D64E7
+[2017-05-11 09:35:20] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-05-11 09:40:20] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 09:45:23] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 09:45:24] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 09:46:11] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25868979，VVID：35E019F6-C60F-4537-A8D3-30459ACBD1B1
+[2017-05-11 09:46:57] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-05-11 09:51:57] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 09:53:36] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 10:00:55] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 10:00:56] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 10:01:39] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25869029，VVID：5F3D2377-A6B6-4FE2-9E39-3736EC8B9A8C
+[2017-05-11 10:02:14] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-05-11 10:07:14] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 10:21:17] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 10:22:02] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25869107，VVID：5D8C9117-35EF-4216-9B2A-E31CE8295725
+[2017-05-11 10:22:35] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-05-11 10:27:36] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 10:33:12] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 10:36:46] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 10:37:30] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25869241，VVID：77D4B3D7-F224-42CD-9069-F8356AC30F05
+[2017-05-11 10:38:04] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-05-11 10:43:04] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 10:44:52] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 10:45:39] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25869277，VVID：00BC6F3E-461D-4912-96C5-46352700B939
+[2017-05-11 10:46:10] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-05-11 10:51:10] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 10:58:38] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 10:59:19] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25869297，VVID：2ABC74E2-5908-489D-91B1-4D4920E425D9
+[2017-05-11 10:59:56] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-05-11 11:04:56] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 11:07:29] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 11:08:18] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25869327，VVID：24058E5D-F13E-4492-92FC-32E0B4F6FBA8
+[2017-05-11 11:08:46] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:1--
+[2017-05-11 11:13:47] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 11:16:14] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 11:19:46] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 11:20:28] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25869413，VVID：54539212-97B9-4D5D-AACD-85A28D7F0F94
+[2017-05-11 11:21:03] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:1--
+[2017-05-11 11:25:41] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 11:26:04] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 11:33:23] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 11:33:24] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 11:34:11] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25869711，VVID：A468AC39-9194-4C57-A9EF-5445CEFBC56A
+[2017-05-11 11:34:42] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-05-11 11:39:42] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 11:46:45] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 11:47:27] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25869471，VVID：30F1DCBB-12AB-4DDF-8670-C8ACD6FE7CFF
+[2017-05-11 11:48:08] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:1--
+[2017-05-11 11:53:09] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 12:00:57] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 12:01:37] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25869513，VVID：07410D3D-387F-429D-9D64-88FBD2373566
+[2017-05-11 12:02:15] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:1--
+[2017-05-11 12:07:15] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 12:11:56] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 12:12:38] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25869531，VVID：76069A94-91EA-419A-8C25-DD04EC366741
+[2017-05-11 12:13:14] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:1--
+[2017-05-11 12:18:15] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 12:19:49] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 12:35:47] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 12:35:48] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 12:36:30] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25869547，VVID：F375340F-A5C3-4EE6-A8CA-8B32790B1F74
+[2017-05-11 12:37:10] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:1--
+[2017-05-11 12:42:11] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 12:46:25] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 12:47:07] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25869561，VVID：2FDCCD2F-4B38-4000-8FB8-F300F6C9B2CC
+[2017-05-11 12:47:54] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:1--
+[2017-05-11 12:52:55] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 12:57:52] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 12:58:33] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25869603，VVID：3E072A4C-8503-4B73-BE81-8F2485AA99DA
+[2017-05-11 12:59:21] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:1--
+[2017-05-11 13:03:57] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 13:04:21] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 13:09:53] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 13:10:35] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25869641，VVID：CF3D1033-B63A-4687-AF8C-A183E0A0F716
+[2017-05-11 13:11:11] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:1--
+[2017-05-11 13:16:11] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 13:16:21] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 13:17:01] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25907259，VVID：9EE1FBDF-6EE7-408D-B4A2-BADAB1654F72
+[2017-05-11 13:17:39] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:1--
+[2017-05-11 13:21:58] [ERROR] [PPPWnd.cpp:8203] - [PPLive PPP]CPPPWnd::PlayList 不是vip,channelid=25869653
+[2017-05-11 13:21:58] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=4; ErrorMessage=playError_VipOnly; UserName=(null); UserLevelType=REAL; CityCode=53; IP=192.168.1.105; referer=null; ChannelSource=35; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":25869653,"b":138,"c":0,"content":1,"d":0,"ft":-1,"ftall":0,"g":1,"h":-2147483648,"hjid":9042526,"hjname":"太极宗师之太极门","hjtype":1,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":-1,"rsid":0,"url":"","userinfo":false,"username":"","usertype":-1,"vip":1,"vtp":0}
+[2017-05-11 13:22:10] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25869531，VVID：9EE1FBDF-6EE7-408D-B4A2-BADAB1654F72
+[2017-05-11 13:22:11] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-11 13:23:29] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:1--
+[2017-05-15 08:32:20] [ERROR] [ChannelManager.cpp:8675] - [PPLive NCList]CChannelManager::ProcessRealUser failed.result:800c0005
+[2017-05-15 08:32:20] [ERROR] [ChannelManager.cpp:8675] - [PPLive NCList]CChannelManager::ProcessRealUser failed.result:800c0005
+[2017-05-15 08:32:20] [ERROR] [ChannelManager.cpp:8675] - [PPLive NCList]CChannelManager::ProcessRealUser failed.result:800c0005
+[2017-05-15 08:32:20] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=2, ErrorReason:errorCode:-6, FailedUrl:file:///C:/Program%20Files%20(x86)/PPLive/PPTV/4.0.2.0035/data/tips_big/tips4.html?url=http%3A%2F%2Fclient%2Eaplus%2Epptv%2Ecom%2Fstatic%5Fpage%2Fvip%5Ftip%2Fpg%5Fviptips, RemoteIP:(null)
+[2017-05-15 08:32:30] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-05-15 08:32:50] [ERROR] [FlowHandler.cpp:174] - [PPLive ProductUpdate]Failed to download INI!
+[2017-05-15 08:34:39] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:0,elapsedTime:12.059000,endTime:1494808479.021722, FailedUrl:file:///C:/Program%20Files%20(x86)/PPLive/PPTV/4.0.2.0035/data/local/errorPage.htm?error=-1&url=http%3A%2F%2Fclient%2Eaplus%2Epptv%2Ecom%2Fmenu%2Fpg%5Fnav, RemoteIP:(null)
+[2017-05-15 08:56:41] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:0,elapsedTime:12.090107,endTime:1494809801.851686, FailedUrl:file:///C:/Program%20Files%20(x86)/PPLive/PPTV/4.0.2.0035/data/local/errorPage.htm?error=-1&url=http%3A%2F%2Fclient%2Eaplus%2Epptv%2Ecom%2Fmenu%2Fpg%5Fnav, RemoteIP:(null)
+[2017-05-15 10:17:50] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPLC998.tmp
+[2017-05-15 10:17:50] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-05-15 10:18:13] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=2, ErrorReason:errorCode:-118, FailedUrl:http://tpptv.ipdx.cn.miaozhen.com/c, RemoteIP:(null)
+[2017-05-15 10:18:13] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:21.747000,endTime:1494814693.355800, FailedUrl:http://ads.aplus.pptv.com/ipservice/servicejump.html, RemoteIP:218.6.223.220
+[2017-05-15 10:18:26] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:36.284000,endTime:1494814706.862800, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:218.6.223.221
+[2017-05-15 10:18:26] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:36.361000,endTime:1494814706.877800, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:218.6.223.221
+[2017-05-15 10:19:09] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：9042526，VVID：D2593D9C-34BA-4312-9C66-183343158B55
+[2017-05-15 10:19:09] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=24,debug=[<debug uip="118.122.88.216" sip="10.208.185.227" fb="D" trace="channelid:9042526|pre:client" />
+]
+[2017-05-15 10:19:10] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=46; ErrorMessage=playError_Userinfo_NameEmpty; UserName=(null); UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=http://tv.pptv.com/?plt=clt; ChannelSource=24; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":9042526,"b":0,"c":0,"content":2,"d":25869531,"ft":-1,"ftall":0,"g":1,"h":-2147483648,"hjid":0,"hjname":"","hjtype":0,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":0,"rsid":0,"url":"pptv://0a2lmaqXpaKij9iioJbWpqY=","userinfo":false,"username":"","usertype":-1,"vip":0,"vtp":0}
+[2017-05-15 10:19:10] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:19.751000,endTime:1494814749.951107, FailedUrl:http://google.cifenqi.com/pos/dz/c/gg2/, RemoteIP:222.186.60.11
+[2017-05-15 10:19:10] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:20.546000,endTime:1494814749.951107, FailedUrl:http://tv.pptv.com/?plt=clt, RemoteIP:218.6.223.221
+[2017-05-15 10:19:27] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25872145，VVID：1C125D55-0BAC-4491-A426-C43969F2948F
+[2017-05-15 10:19:28] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-15 10:20:18] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25872173，VVID：68481F6D-2ECB-4940-BEE3-38C9B2EBE7CB
+[2017-05-15 10:20:19] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=24,debug=[<debug uip="118.122.88.216" sip="10.208.188.181" fb="D" trace="channelid:25872173|pre:client" />
+]
+[2017-05-15 10:20:48] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:1--
+[2017-05-15 10:22:12] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:181.086866,endTime:1494814932.082973, FailedUrl:http://google.cifenqi.com/pos/dz/c/gg2/, RemoteIP:222.186.60.11
+[2017-05-15 10:22:12] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:182.118866,endTime:1494814932.085973, FailedUrl:http://v.pptv.com/page/XuLOTLQaiasgrqRE.html?plt=clt, RemoteIP:218.6.223.220
+[2017-05-15 10:25:49] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-15 10:36:43] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-15 10:37:24] [ERROR] [PPPWnd.cpp:8203] - [PPLive PPP]CPPPWnd::PlayList 不是vip,channelid=25872173
+[2017-05-15 10:37:24] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=4; ErrorMessage=playError_VipOnly; UserName=(null); UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=http://v.pptv.com/page/XuLOTLQaiasgrqRE.html?plt=clt; ChannelSource=8; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":25872173,"b":138,"c":0,"content":3,"d":0,"ft":-1,"ftall":0,"g":1,"h":0,"hjid":9042526,"hjname":"太极宗师之太极门","hjtype":1,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":-1,"rsid":0,"url":"","userinfo":false,"username":"","usertype":-1,"vip":1,"vtp":0}
+[2017-05-15 10:37:40] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:17.223000,endTime:1494815860.969459, FailedUrl:http://pay.vip.pptv.com/?isfromclient=1&plt=clt&aid=clientneirong&username=, RemoteIP:117.135.157.156
+[2017-05-15 10:38:21] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:28.548000,endTime:1494815901.591922, FailedUrl:https://open.weixin.qq.com/connect/qrconnect?appid=wx8c9cfc1f578d8f20&redirect_uri=http%3A%2F%2Fapi.passport.pptv.com%2Fwxlogin%2FdoThirdPartyLogin%2Fwx%3FreturnUrl%3Dhttp%253A%252F%252Fapi.client.pptv.com%252Fthirdlogin%252Fv1.html%253Fcanal%253Dforqd3130&response_type=code&scope=snsapi_login&state=1234#wechat_redirect, RemoteIP:115.25.209.14
+[2017-05-15 10:40:55] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:194.444217,endTime:1494816055.428676, FailedUrl:http://pay.vip.pptv.com/v2/paycenter?pricecode=default_vip_v1&detailid=defaultvip_m1&paypal_pricecode=paypal_vip&paypal_detailid=paypalvip5&isfromclient=1&plt=clt&aid=clientneirong&username=, RemoteIP:117.135.157.156
+[2017-05-15 10:43:56] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:35.817505,endTime:1494816236.218792, FailedUrl:https://open.weixin.qq.com/connect/qrconnect?appid=wx8c9cfc1f578d8f20&redirect_uri=http%3A%2F%2Fapi.passport.pptv.com%2Fwxlogin%2FdoThirdPartyLogin%2Fwx%3FreturnUrl%3Dhttp%253A%252F%252Fapi.client.pptv.com%252Fthirdlogin%252Fv1.html%253Fcanal%253Dforqd3130&response_type=code&scope=snsapi_login&state=1234#wechat_redirect, RemoteIP:115.25.209.14
+[2017-05-15 10:49:28] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:27.846000,endTime:1494816568.140520, FailedUrl:https://open.weixin.qq.com/connect/qrconnect?appid=wx8c9cfc1f578d8f20&redirect_uri=http%3A%2F%2Fapi.passport.pptv.com%2Fwxlogin%2FdoThirdPartyLogin%2Fwx%3FreturnUrl%3Dhttp%253A%252F%252Fapi.client.pptv.com%252Fthirdlogin%252Fv1.html%253Fcanal%253Dforqd3130&response_type=code&scope=snsapi_login&state=1234#wechat_redirect, RemoteIP:115.25.209.14
+[2017-05-15 10:54:43] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:29.063000,endTime:1494816883.693837, FailedUrl:https://open.weixin.qq.com/connect/qrconnect?appid=wx8c9cfc1f578d8f20&redirect_uri=http%3A%2F%2Fapi.passport.pptv.com%2Fwxlogin%2FdoThirdPartyLogin%2Fwx%3FreturnUrl%3Dhttp%253A%252F%252Fapi.client.pptv.com%252Fthirdlogin%252Fv1.html%253Fcanal%253Dforqd3130&response_type=code&scope=snsapi_login&state=1234#wechat_redirect, RemoteIP:115.25.209.14
+[2017-05-15 10:55:00] [ERROR] [StdAfx.cpp:2249] - [PPLive NCList]passport error,username:(null) error type:2 errmsg:3208550 isvip:0
+[2017-05-15 10:55:00] [ERROR] [Passport.cpp:367] - [PPLive NCList]@@@ CPassport::OnDownloadEnd 下载失败,m_pCloudVodCheck,hresult = -2146697208
+[2017-05-15 10:55:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 10:55:00] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPLCF2F.tmp
+[2017-05-15 10:55:00] [ERROR] [ChannelManager.cpp:10655] - [PPLive NCList]CChannelManager::ChangeRealUserPPI user(_268044ce65011b5f75a1@wx) oldct(1)newct(53),oldcool(0),newcool(1),oldtype(1)newtype(2),oldppi()newppi(312c3533)
+[2017-05-15 10:55:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 10:55:00] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-15 10:55:01] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:17.360506,endTime:1494816901.054343, FailedUrl:http://api.client.pptv.com/thirdlogin/v1.html?canal=forqd3130&token=nM6-BAE-t4d6S0eM0oIAf3tQ9buOt4EpLD3e0l5gfeexgB8zMGMU7Vo7NCk4o8YJ0VyYDQNZ4CEb%0D%0AhStpRGnKidBhukQhppHTeJJJ_Hr0KEjXm2oA2YU2RXNP5kr6PXKxqlvaRyVGN56UnGYQxvuSNTh0%0D%0AE5p6KbdbECJX8pSt22A%0D%0A&errorCode=0&userName=_268044ce65011b5f75a1%40wx&msg=%E6%88%90%E5%8A%9F&ppUid=4d9b095f-aae4-4a15-b068-40717ddd4518, RemoteIP:218.6.223.221
+[2017-05-15 10:55:25] [ERROR] [ChannelManager.cpp:510] - [PPLive NCList]右侧栏下载失败,url=http://client-list.pptv.com/v3/chmoreinfo-9042526.xml&version=4&userLevel=0&fb=1&virtual=1&siteid=0&c=1500&s=1
+[2017-05-15 10:55:42] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:41.535000,endTime:1494816942.589343, FailedUrl:http://pay.vip.pptv.com/v2/paycenter?pricecode=default_vip_v1&detailid=defaultvip_m1&paypal_pricecode=paypal_vip&paypal_detailid=paypalvip5&isfromclient=1&plt=clt&aid=clientneirong&username=, RemoteIP:117.135.157.156
+[2017-05-15 10:55:43] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:18.986000,endTime:1494816943.151343, FailedUrl:http://client-mini.pptv.com/r/0/25872173/index.htm, RemoteIP:218.6.223.220
+[2017-05-15 11:00:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 11:00:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 11:00:00] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-15 11:05:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 11:05:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 11:05:00] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-15 11:10:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 11:10:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 11:10:00] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-15 11:15:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 11:15:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 11:15:00] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-15 11:20:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 11:20:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 11:20:00] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-15 11:25:03] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 11:25:03] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 11:25:03] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-15 11:30:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 11:30:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 11:30:00] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-15 11:35:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 11:35:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 11:35:00] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-15 11:40:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 11:40:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 11:40:00] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-15 11:45:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 11:45:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 11:45:00] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-15 11:50:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 11:50:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 11:50:00] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-15 11:55:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 11:55:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 11:55:00] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-15 12:00:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 12:00:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 12:00:00] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-15 12:05:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 12:05:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 12:05:00] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-15 12:10:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 12:10:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 12:10:00] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-15 12:15:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 12:15:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 12:15:00] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-15 12:20:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 12:20:00] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-15 12:20:00] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-15 12:20:57] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：9042755，VVID：68481F6D-2ECB-4940-BEE3-38C9B2EBE7CB
+[2017-05-15 12:20:57] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:131.278700,endTime:1494822057.618841, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:117.174.146.41
+[2017-05-15 12:20:57] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=8,debug=[]
+[2017-05-15 12:20:57] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25992089，VVID：D12955BD-A834-4556-A445-82CEDA9A4DF9
+[2017-05-15 12:21:00] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-15 12:21:26] [ERROR] [Passport.cpp:281] - [PPLive NCList]passport LogoutWithReason:0
+[2017-05-15 12:22:23] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPLCFB1.tmp
+[2017-05-15 12:22:23] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-05-15 12:22:33] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-05-15 12:23:29] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:63.516432,endTime:1494822209.711397, FailedUrl:http://static.chaoliangyun.com/stat.html, RemoteIP:(null)
+[2017-05-15 12:25:25] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:180.299298,endTime:1494822325.604263, FailedUrl:http://js.pgyst.net/jsyh/cnzz/cl_300_01.html, RemoteIP:(null)
+[2017-05-15 12:25:31] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:187.797298,endTime:1494822331.083263, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:218.6.223.220
+[2017-05-15 12:25:31] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:187.952298,endTime:1494822331.106263, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:218.6.223.220
+[2017-05-15 12:54:15] [ERROR] [Passport.cpp:281] - [PPLive NCList]passport LogoutWithReason:0
+[2017-05-15 16:13:14] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL3978.tmp
+[2017-05-15 16:13:14] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-05-15 16:13:52] [ERROR] [Passport.cpp:281] - [PPLive NCList]passport LogoutWithReason:0
+[2017-05-16 07:14:44] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL37D3.tmp
+[2017-05-16 07:14:45] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-05-16 07:15:13] [ERROR] [Passport.cpp:281] - [PPLive NCList]passport LogoutWithReason:0
+[2017-05-16 13:56:26] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL3573.tmp
+[2017-05-16 13:56:26] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-05-16 13:56:35] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-05-16 14:20:35] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：9042526，VVID：7618C3BA-D8EB-4A51-B912-24AC61B23B16
+[2017-05-16 14:20:35] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=24,debug=[<debug uip="118.122.88.216" sip="10.208.188.201" fb="D" trace="channelid:9042526|pre:client" />
+]
+[2017-05-16 14:20:35] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=46; ErrorMessage=playError_Userinfo_NameEmpty; UserName=(null); UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=http://tv.pptv.com/?plt=clt; ChannelSource=24; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":9042526,"b":0,"c":0,"content":2,"d":25872145,"ft":-1,"ftall":0,"g":1,"h":-2147483648,"hjid":0,"hjname":"","hjtype":0,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":0,"rsid":0,"url":"pptv://0a2lmaqXpaKij9iioJbWpqY=","userinfo":false,"username":"","usertype":-1,"vip":0,"vtp":0}
+[2017-05-16 14:20:44] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25872173，VVID：90E672C9-A4EC-4B34-A7CF-279485150827
+[2017-05-16 14:20:46] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-16 14:20:57] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:22.379000,endTime:1494915657.519156, FailedUrl:http://v.pptv.com/page/XuLOTLQaiasgrqRE.html?plt=clt, RemoteIP:218.6.223.221
+[2017-05-16 14:21:48] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:1--
+[2017-05-16 14:26:49] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-16 14:27:30] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25907671，VVID：C8EFE8DD-13D9-4024-A5C6-B051CFA0471B
+[2017-05-16 14:31:35] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-16 14:46:31] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-16 14:46:32] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-16 14:46:48] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-05-16 14:49:06] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=13; ErrorMessage=kernelError_LowNetwork; UserName=(null); UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=null; ChannelSource=8; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":25872207,"b":138,"c":0,"content":1,"d":0,"ft":-1,"ftall":0,"g":1,"h":-2147483648,"hjid":9042526,"hjname":"太极宗师之太极门","hjtype":1,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":-1,"rsid":0,"url":"","userinfo":false,"username":"","usertype":-1,"vip":1,"vtp":0}
+[2017-05-16 14:49:10] [ERROR] [PPPWnd.cpp:8203] - [PPLive PPP]CPPPWnd::PlayList 不是vip,channelid=25872207
+[2017-05-16 14:49:10] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=4; ErrorMessage=playError_VipOnly; UserName=(null); UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=null; ChannelSource=35; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":25872207,"b":138,"c":0,"content":1,"d":0,"ft":-1,"ftall":0,"g":1,"h":-2147483648,"hjid":9042526,"hjname":"太极宗师之太极门","hjtype":1,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":-1,"rsid":0,"url":"","userinfo":false,"username":"","usertype":-1,"vip":1,"vtp":0}
+[2017-05-16 14:50:08] [ERROR] [StdAfx.cpp:2249] - [PPLive NCList]passport error,username:(null) error type:2 errmsg:3236 isvip:0
+[2017-05-16 14:50:08] [ERROR] [Passport.cpp:367] - [PPLive NCList]@@@ CPassport::OnDownloadEnd 下载失败,m_pCloudVodCheck,hresult = -2146697208
+[2017-05-16 14:50:08] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL6239.tmp
+[2017-05-16 14:50:08] [ERROR] [ChannelManager.cpp:10655] - [PPLive NCList]CChannelManager::ChangeRealUserPPI user(_211955bfea8acf547595@alipay) oldct(1)newct(53),oldcool(0),newcool(1),oldtype(1)newtype(2),oldppi()newppi(312c3533)
+[2017-05-16 14:50:08] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-16 14:50:09] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-16 14:50:09] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-16 14:50:55] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:19.904000,endTime:1494917455.219025, FailedUrl:http://client.aplus.pptv.com/static_page/rad, RemoteIP:218.6.223.220
+[2017-05-16 14:55:09] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-16 14:55:09] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-16 14:55:09] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-16 14:56:19] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：9042526，VVID：68BFDA5E-4875-4D04-933F-FEFEC1947ABE
+[2017-05-16 14:56:19] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=8,debug=[]
+[2017-05-16 14:56:19] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25868709，VVID：6425FCAD-F592-4A46-9E70-7648E0531DA7
+[2017-05-16 14:56:22] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-16 14:57:39] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-05-16 14:59:01] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:23.987000,endTime:1494917941.167889, FailedUrl:http://i.pptv.com/2015usercenter/index?plt=clt&aid=dlpersonlcetre, RemoteIP:218.6.223.220
+[2017-05-16 14:59:03] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：9042526，VVID：1B8FDA8A-221C-4D5B-853F-A39C59317382
+[2017-05-16 14:59:03] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=8,debug=[]
+[2017-05-16 14:59:03] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25868709，VVID：B491F4D0-31D7-49EC-B530-89A493FC2A33
+[2017-05-16 14:59:05] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-16 14:59:17] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25872207，VVID：8ABD74CC-E4FB-46C0-94D3-22D9D1A1B969
+[2017-05-16 14:59:18] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-16 15:00:09] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-16 15:00:09] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-16 15:00:34] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25872225，VVID：DA5E1B25-9144-4B54-9FDC-83A3A682DCA0
+[2017-05-16 15:05:09] [ERROR] [StdAfx.cpp:2461] - [PPLive NCList]Sync::同步ParseJson2MapInfo Counts:0！
+[2017-05-16 15:05:09] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-16 15:06:51] [ERROR] [PPPWnd.cpp:8203] - [PPLive PPP]CPPPWnd::PlayList 不是vip,channelid=25872225
+[2017-05-16 15:06:51] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=4; ErrorMessage=playError_VipOnly; UserName=_211955bfea8acf547595@alipay; UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=null; ChannelSource=35; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":25872225,"b":138,"c":0,"content":1,"d":0,"ft":-1,"ftall":0,"g":1,"h":-2147483648,"hjid":9042526,"hjname":"太极宗师之太极门","hjtype":1,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":-1,"rsid":0,"url":"","userinfo":false,"username":"","usertype":-1,"vip":1,"vtp":0}
+[2017-05-16 15:07:13] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:19.210000,endTime:1494918433.328122, FailedUrl:http://client-mini.pptv.com/r/0/25872225/index.htm, RemoteIP:218.6.223.221
+[2017-05-16 15:07:27] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:18.045000,endTime:1494918447.536122, FailedUrl:http://i.pptv.com/2015usercenter/msg?plt=clt, RemoteIP:218.6.223.221
+[2017-05-16 15:07:44] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:17.378432,endTime:1494918464.923554, FailedUrl:http://vip.pptv.com/?plt=clt, RemoteIP:218.6.223.220
+[2017-05-16 15:08:06] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:21.046000,endTime:1494918486.562554, FailedUrl:http://vip.pptv.com/privilege/?plt=clt, RemoteIP:218.6.223.220
+[2017-05-16 15:08:10] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：9042526，VVID：DA5E1B25-9144-4B54-9FDC-83A3A682DCA0
+[2017-05-16 15:08:10] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=8,debug=[]
+[2017-05-16 15:08:10] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25872207，VVID：E40132BA-61C5-4453-85C1-183A6124FB57
+[2017-05-16 15:08:12] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25872225，VVID：667E4FA1-EC8F-4601-9196-73A8F77CEE90
+[2017-05-16 15:08:14] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-16 15:08:26] [ERROR] [PPPWnd.cpp:8203] - [PPLive PPP]CPPPWnd::PlayList 不是vip,channelid=25872225
+[2017-05-16 15:08:26] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=4; ErrorMessage=playError_VipOnly; UserName=_211955bfea8acf547595@alipay; UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=http://tv.pptv.com/?plt=clt; ChannelSource=12; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":25872225,"b":138,"c":0,"content":3,"d":0,"ft":-1,"ftall":0,"g":1,"h":0,"hjid":9042526,"hjname":"太极宗师之太极门","hjtype":1,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":-1,"rsid":0,"url":"","userinfo":false,"username":"","usertype":-1,"vip":1,"vtp":0}
+[2017-05-16 15:08:38] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:11.963426,endTime:1494918518.264980, FailedUrl:http://pay.vip.pptv.com/?isfromclient=1&plt=clt&aid=clientneirong&username=_211955bfea8acf547595%40alipay, RemoteIP:211.151.82.226
+[2017-05-16 15:08:49] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：9042526，VVID：667E4FA1-EC8F-4601-9196-73A8F77CEE90
+[2017-05-16 15:08:49] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=8,debug=[]
+[2017-05-16 15:08:49] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25872207，VVID：67C4E7E2-81ED-4446-AD0C-6200B13DB70C
+[2017-05-16 15:08:51] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25872225，VVID：91D36946-4A22-46A7-BD68-D6DEFBB7814A
+[2017-05-16 15:08:52] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-16 15:08:58] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：9042526，VVID：91D36946-4A22-46A7-BD68-D6DEFBB7814A
+[2017-05-16 15:08:58] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=8,debug=[]
+[2017-05-16 15:08:58] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25872207，VVID：245B47BA-4763-4774-8A32-955B88E54B62
+[2017-05-16 15:09:00] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25872225，VVID：816ED83C-5574-43E5-98B2-359850FBD616
+[2017-05-16 15:09:00] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-16 15:09:05] [ERROR] [PPPWnd.cpp:8203] - [PPLive PPP]CPPPWnd::PlayList 不是vip,channelid=25872225
+[2017-05-16 15:09:05] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=4; ErrorMessage=playError_VipOnly; UserName=_211955bfea8acf547595@alipay; UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=null; ChannelSource=35; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":25872225,"b":138,"c":0,"content":1,"d":0,"ft":-1,"ftall":0,"g":1,"h":-2147483648,"hjid":9042526,"hjname":"太极宗师之太极门","hjtype":1,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":-1,"rsid":0,"url":"","userinfo":false,"username":"","usertype":-1,"vip":1,"vtp":0}
+[2017-05-16 15:09:27] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:12.883000,endTime:1494918567.520980, FailedUrl:http://pay.vip.pptv.com/?plt=clt, RemoteIP:(null)
+[2017-05-16 15:09:44] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：9042526，VVID：816ED83C-5574-43E5-98B2-359850FBD616
+[2017-05-16 15:09:44] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=8,debug=[]
+[2017-05-16 15:09:44] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25872207，VVID：E0FB4EEC-9CBD-4585-AF50-199525E31BA2
+[2017-05-16 15:09:45] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25872225，VVID：CD11C8BF-DBD0-48BE-887A-EBDB96FB3D05
+[2017-05-16 15:09:47] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-16 15:09:57] [ERROR] [PPPWnd.cpp:8203] - [PPLive PPP]CPPPWnd::PlayList 不是vip,channelid=25872225
+[2017-05-16 15:09:57] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=4; ErrorMessage=playError_VipOnly; UserName=_211955bfea8acf547595@alipay; UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=http://vip.pptv.com/?plt=clt; ChannelSource=12; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":25872225,"b":138,"c":0,"content":3,"d":0,"ft":-1,"ftall":0,"g":1,"h":0,"hjid":9042526,"hjname":"太极宗师之太极门","hjtype":1,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":-1,"rsid":0,"url":"","userinfo":false,"username":"","usertype":-1,"vip":1,"vtp":0}
+[2017-05-16 15:10:09] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-16 15:10:09] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-16 15:11:26] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25872263，VVID：2E47966B-6522-482F-93F5-CA59C49FA8E4
+[2017-05-16 15:15:09] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-16 15:18:12] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-16 15:18:16] [ERROR] [PPPWnd.cpp:8203] - [PPLive PPP]CPPPWnd::PlayList 不是vip,channelid=25872263
+[2017-05-16 15:18:16] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=4; ErrorMessage=playError_VipOnly; UserName=_211955bfea8acf547595@alipay; UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=http://v.pptv.com/page/XuLOTLQaiasgrqRE.html?plt=clt#00; ChannelSource=8; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":25872263,"b":138,"c":0,"content":3,"d":0,"ft":-1,"ftall":0,"g":1,"h":0,"hjid":9042526,"hjname":"太极宗师之太极门","hjtype":1,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":-1,"rsid":0,"url":"","userinfo":false,"username":"","usertype":-1,"vip":1,"vtp":0}
+[2017-05-16 15:18:21] [ERROR] [PPPWnd.cpp:8203] - [PPLive PPP]CPPPWnd::PlayList 不是vip,channelid=25872263
+[2017-05-16 15:18:21] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=4; ErrorMessage=playError_VipOnly; UserName=_211955bfea8acf547595@alipay; UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=null; ChannelSource=35; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":25872263,"b":138,"c":0,"content":1,"d":0,"ft":-1,"ftall":0,"g":1,"h":-2147483648,"hjid":9042526,"hjname":"太极宗师之太极门","hjtype":1,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":-1,"rsid":0,"url":"","userinfo":false,"username":"","usertype":-1,"vip":1,"vtp":0}
+[2017-05-16 15:18:34] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-16 15:19:54] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25876467，VVID：E758595E-5788-4FFE-AC0C-08F26FA3F50B
+[2017-05-16 15:20:09] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-16 15:25:18] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-16 15:30:09] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-16 15:34:14] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-16 15:34:15] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-16 15:34:56] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=12; ErrorMessage=KernelError_NormalNetwork; UserName=_211955bfea8acf547595@alipay; UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=http://v.pptv.com/page/XuLOTLQaiasgrqRE.html?plt=clt#00; ChannelSource=8; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":25876467,"b":138,"c":0,"content":3,"d":-2147483648,"ft":-1,"ftall":0,"g":1,"h":-2147483648,"hjid":9042526,"hjname":"太极宗师之太极门","hjtype":1,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":-1,"rsid":0,"url":"","userinfo":false,"username":"","usertype":-1,"vip":0,"vtp":0}
+[2017-05-16 15:35:09] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-16 15:35:39] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25982533，VVID：9490C688-E4DA-4D3B-A71E-9A7D043096B5
+[2017-05-16 15:35:39] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:43.024285,endTime:1494920139.760081, FailedUrl:http://client-mini.pptv.com/r/0/25876467/index.htm, RemoteIP:218.6.223.221
+[2017-05-16 15:35:42] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-16 15:36:04] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:24.955000,endTime:1494920164.715081, FailedUrl:http://v.pptv.com/page/RXFg30etHVuibPKQ.html?plt=clt, RemoteIP:218.6.223.220
+[2017-05-16 15:40:09] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-16 15:43:11] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-16 15:45:09] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-16 15:50:09] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-16 15:54:00] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-16 15:55:09] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-16 16:00:09] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-16 16:05:09] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-16 16:10:09] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-16 16:15:09] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-16 17:09:57] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL3802.tmp
+[2017-05-16 17:09:58] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-05-16 17:10:48] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:50.245000,endTime:1494925848.362658, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:218.6.223.221
+[2017-05-16 17:10:48] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:50.535000,endTime:1494925848.382658, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:218.6.223.221
+[2017-05-17 06:59:28] [ERROR] [ChannelManager.cpp:8675] - [PPLive NCList]CChannelManager::ProcessRealUser failed.result:800c0005
+[2017-05-17 06:59:28] [ERROR] [ChannelManager.cpp:8675] - [PPLive NCList]CChannelManager::ProcessRealUser failed.result:800c0005
+[2017-05-17 06:59:28] [ERROR] [ChannelManager.cpp:8675] - [PPLive NCList]CChannelManager::ProcessRealUser failed.result:800c0005
+[2017-05-17 06:59:28] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=2, ErrorReason:errorCode:-6, FailedUrl:file:///C:/Program%20Files%20(x86)/PPLive/PPTV/4.0.2.0035/data/tips_big/tips4.html?url=http%3A%2F%2Fclient%2Eaplus%2Epptv%2Ecom%2Fstatic%5Fpage%2Fvip%5Ftip%2Fpg%5Fviptips, RemoteIP:(null)
+[2017-05-17 08:35:12] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPLD78C.tmp
+[2017-05-17 08:35:12] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-05-17 08:35:24] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：9042526，VVID：0643050C-B98F-4641-A7DF-54E33FC4D1BD
+[2017-05-17 08:35:25] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=24,debug=[<debug uip="118.122.88.215" sip="10.208.188.140" fb="D" trace="channelid:9042526|pre:client" />
+]
+[2017-05-17 08:35:25] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=46; ErrorMessage=playError_Userinfo_NameEmpty; UserName=(null); UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=http://www.pptv.com/?plt=clt; ChannelSource=24; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":9042526,"b":0,"c":0,"content":2,"d":25907671,"ft":-1,"ftall":0,"g":1,"h":-2147483648,"hjid":0,"hjname":"","hjtype":0,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":0,"rsid":0,"url":"pptv://0a2lmaqXpaKij9iioJbWpqY=","userinfo":false,"username":"","usertype":-1,"vip":0,"vtp":0}
+[2017-05-17 08:35:42] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25872225，VVID：8D0B3C45-34DA-4492-B816-607A8BF182F5
+[2017-05-17 08:35:43] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=24,debug=[<debug uip="118.122.88.215" sip="10.208.188.229" fb="D" trace="channelid:25872225|pre:client" />
+]
+[2017-05-17 08:35:43] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=46; ErrorMessage=playError_Userinfo_NameEmpty; UserName=(null); UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=http://v.pptv.com/page/XuLOTLQaiasgrqRE.html?plt=clt; ChannelSource=28; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":25872225,"b":0,"c":0,"content":2,"d":0,"ft":-1,"ftall":0,"g":1,"h":-2147483648,"hjid":0,"hjname":"","hjtype":0,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":0,"rsid":0,"url":"pptv://0a2enq6coqKenpzHraCS07OV","userinfo":false,"username":"","usertype":-1,"vip":0,"vtp":0}
+[2017-05-17 08:36:10] [ERROR] [Passport.cpp:281] - [PPLive NCList]passport LogoutWithReason:0
+[2017-05-17 08:36:11] [ERROR] [Passport.cpp:1385] - [PPLive NCList]登录失败:[13],登录名不存在
+[2017-05-17 08:36:11] [ERROR] [Passport.cpp:1764] - [PPLive NCList]CPassport::LoadEncrptString 8,dyQuoT3iUsJfrfCY+sbF3cbvuoU+1c2Wd1MhBzGsdqrXRFqkrsoXmu5b49a/F0KocUQFAzehkK91D5Twe5/tlTE4vOMps8MtX3osgtfRboJ0UtYNS1dnV5PwXr5ywJUHXqcPKuNQM6HvY/8XAO4/WLW19qNl+FH1dfuggA4IDK3VCjC6ler1Dj+u2PYD/Bu9kfT0N6qEAMW1kqUFQqgXL5TTuNSvgMeK1fsAXXBZz1vsdDF61AENIxpUE0lVrKfp30JALQibJPEOXOKlMslgEA==
+[2017-05-17 08:36:11] [ERROR] [StdAfx.cpp:2249] - [PPLive NCList]passport error,username:18228032203 error type:7 errmsg:其他错误 isvip:0
+[2017-05-17 08:36:11] [ERROR] [Passport.cpp:668] - [PPLive NCList]LoadEncrptString failed:y7m0vcq1zbK1t7q4xLHAvsnEvbW/vLestZDU3erV46qbmNfV2Z7cyunY4N/e3aTV4OTil9nU3Z/inKXR39fV16XK6M/Y2N3O3p7Q2NGUubjAvcbCfXrHsr65xMDJq7+ztMPAqsq6w8+8u8W9ybSxvbuoxLm6sJbAn7m0vcq1zX12xL+txMS8xriuvrS/vbe5xcPLr7+ztLm6sMiqw7/Bu7mqkNHc0qTV0ePf2eXX5J7c2erbntPb1tGUubjAvcbCfXrHsr65xMDJq7+ztMPAqsq6w8+vuMSztbPAssSskKKdmqSWpaGaoaiToqKixKWuuMTAudNyesu1scq5wM2ussSpw8Stvcu4z8Oxt7quvre+rse6tcPAidGUubjAvcbCfXrHsr65xMDJq7+ztMPAqsq6w8+urr2uvrS7wMSxv7Gwrbe5sZDHmL+txMS8xoNvy7m0vcq1zbK1t7q4xLHAvsnEtb6wrcW8vry7qrqpscStidGUubjAvcbCfXrHsr65xMDJq7+ztMPAqsq6w8++rsm6vMSMxKWuuMTAudNyesu1scq5wM2ussSpw8Stvcu4z8KxvMuxxJDU27OV6KCcmaaVoKCclejK4+XY3bOV6KOlnKeXtqajxKWuuMTAudNyeg== cachefile:
+[2017-05-17 08:36:41] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：9042526，VVID：0DE2021A-7982-48E8-A860-2A6A04F56387
+[2017-05-17 08:36:41] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=24,debug=[<debug uip="118.122.88.215" sip="10.208.188.229" fb="D" trace="channelid:9042526|pre:client" />
+]
+[2017-05-17 08:36:41] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=46; ErrorMessage=playError_Userinfo_NameEmpty; UserName=(null); UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=http://tv.pptv.com/?plt=clt; ChannelSource=24; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":9042526,"b":0,"c":0,"content":2,"d":25907671,"ft":-1,"ftall":0,"g":1,"h":-2147483648,"hjid":0,"hjname":"","hjtype":0,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":0,"rsid":0,"url":"pptv://0a2lmaqXpaKij9iioJbWpqY=","userinfo":false,"username":"","usertype":-1,"vip":0,"vtp":0}
+[2017-05-17 08:36:50] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25872225，VVID：1F885744-38FB-4E97-A71C-E993535AB5C0
+[2017-05-17 08:36:50] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=24,debug=[<debug uip="118.122.88.215" sip="10.208.188.254" fb="D" trace="channelid:25872225|pre:client" />
+]
+[2017-05-17 08:36:50] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=46; ErrorMessage=playError_Userinfo_NameEmpty; UserName=(null); UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=http://v.pptv.com/page/XuLOTLQaiasgrqRE.html?plt=clt; ChannelSource=28; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":25872225,"b":0,"c":0,"content":2,"d":0,"ft":-1,"ftall":0,"g":1,"h":-2147483648,"hjid":0,"hjname":"","hjtype":0,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":0,"rsid":0,"url":"pptv://0a2enq6coqKenpzHraCS07OV","userinfo":false,"username":"","usertype":-1,"vip":0,"vtp":0}
+[2017-05-17 08:37:00] [ERROR] [PPFrameWnd.cpp:4072] - [PPLive PPFrame]***--UEsDBBQAAgAIAKFEsUqo3/VC2wAAAD0CAAAHABEAUHJvY2Vzc1VUDQAHLJsbWSybG1ksmxtZpZDB
+agQhDIZfpQ8w9B2W0p5KcetAD0sPoumsVI0YJzPz9h1012Ur9FK8/F/yY/LnJDfK4B9EQg1En0Pl
+gTzRI6wwaEoXtdiwv9xXHU4YChAktvs/BRwpuipf26zPSPWHwLxjkcejeHofRWf5jw68GtqC/j3r
+zh8RHXFXz4q+G5il7g5rdJggFRhJ1qR/7mCnrzVCqjc4G6VvccektgJCvFqGXh5E875BfnG43E4F
+yo3Wg4wAZo7dWDUbi2ZqUSBUvUTSDmdDXEN8eCsSy+fWhJChtQ5RJu59d/ADUEsBAhcLFAACAAgA
+oUSxSqjf9ULbAAAAPQIAAAcACQAAAAAAAAAAAACAAAAAAFByb2Nlc3NVVAUAByybG1lQSwUGAAAA
+AAEAAQA+AAAAEQEAAAAA--***
+[2017-05-17 08:37:19] [ERROR] [Passport.cpp:281] - [PPLive NCList]passport LogoutWithReason:0
+[2017-05-17 08:37:24] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-05-17 08:37:24] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPLDD18.tmp
+[2017-05-17 08:37:41] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：9042526，VVID：6964C5D2-F5F4-4C40-914F-821E7BFC8131
+[2017-05-17 08:37:41] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=24,debug=[<debug uip="118.122.88.215" sip="10.208.188.137" fb="D" trace="channelid:9042526|pre:client" />
+]
+[2017-05-17 08:37:41] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=46; ErrorMessage=playError_Userinfo_NameEmpty; UserName=(null); UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=http://vip.pptv.com/?plt=clt; ChannelSource=24; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":9042526,"b":0,"c":0,"content":2,"d":25907671,"ft":-1,"ftall":0,"g":1,"h":-2147483648,"hjid":0,"hjname":"","hjtype":0,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":0,"rsid":0,"url":"pptv://0a2lmaqXpaKij9iioJbWpqY=","userinfo":false,"username":"","usertype":-1,"vip":0,"vtp":0}
+[2017-05-17 08:37:48] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25872263，VVID：2FE16897-4741-44B7-A67A-08191A79BE07
+[2017-05-17 08:37:48] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=24,debug=[<debug uip="118.122.88.215" sip="10.208.185.212" fb="D" trace="channelid:25872263|pre:client" />
+]
+[2017-05-17 08:37:48] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=46; ErrorMessage=playError_Userinfo_NameEmpty; UserName=(null); UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=http://v.pptv.com/page/XuLOTLQaiasgrqRE.html?plt=clt#00; ChannelSource=28; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":25872263,"b":0,"c":0,"content":2,"d":0,"ft":-1,"ftall":0,"g":1,"h":-2147483648,"hjid":0,"hjname":"","hjtype":0,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":0,"rsid":0,"url":"pptv://0a2enq6coqKinJzHraCS07OV","userinfo":false,"username":"","usertype":-1,"vip":0,"vtp":0}
+[2017-05-17 08:38:04] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:13.462000,endTime:1494981484.490688, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:218.6.223.221
+[2017-05-17 08:38:04] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:14.040000,endTime:1494981484.506688, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:218.6.223.220
+[2017-05-17 08:38:16] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：9042755，VVID：8C7E51C2-89B1-44B0-97C6-4124247AC134
+[2017-05-17 08:38:16] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=8,debug=[]
+[2017-05-17 08:38:16] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25992089，VVID：574B26FE-B574-4172-B4E7-2557C0F14CDD
+[2017-05-17 08:38:17] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-17 08:39:01] [ERROR] [StdAfx.cpp:2249] - [PPLive NCList]passport error,username:(null) error type:2 errmsg:5985 isvip:1
+[2017-05-17 08:39:01] [ERROR] [Passport.cpp:367] - [PPLive NCList]@@@ CPassport::OnDownloadEnd 下载失败,m_pCloudVodCheck,hresult = -2146697208
+[2017-05-17 08:39:02] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-17 08:39:06] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25992107，VVID：19628329-1DB4-438C-AFDD-2FA3247E7C9A
+[2017-05-17 08:39:12] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-17 08:39:16] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25993089，VVID：E4734E3C-79E8-499C-A414-AE2BEC47609D
+[2017-05-17 08:39:18] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-17 08:39:23] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25993079，VVID：4BD564D4-C0D0-4182-8879-31ED5314F484
+[2017-05-17 08:39:24] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-17 08:39:31] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25993511，VVID：432C247E-2DA2-4A45-A80B-2ABBD87D10B3
+[2017-05-17 08:39:32] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-17 08:39:42] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25993541，VVID：B85A30AB-F674-4176-91D0-F6212AFD01FF
+[2017-05-17 08:39:43] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-17 08:39:50] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：26000465，VVID：25D0B684-C8A2-457C-BE46-B67412339CC9
+[2017-05-17 08:39:51] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-17 08:40:03] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：26000473，VVID：10EDADCC-FD28-4277-87B9-120E6EA339FC
+[2017-05-17 08:40:04] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-17 08:40:14] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：26000121，VVID：8E139429-AABB-4626-A1F5-56E375A56350
+[2017-05-17 08:40:15] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-17 08:42:20] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：26000093，VVID：44C447ED-2E4E-490D-9CD8-C0BDAA2065E8
+[2017-05-17 08:44:02] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-17 08:49:01] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-17 08:54:02] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-17 08:59:02] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-17 09:04:01] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-17 09:05:57] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-17 09:09:02] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-17 09:14:02] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-17 09:19:02] [ERROR] [StdAfx.cpp:2536] - [PPLive NCList]Sync::同步ParseCloudVodJson2MapInfo Counts:0！
+[2017-05-17 09:20:46] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25982533，VVID：07F95AC9-F73D-42BB-B518-45C304058D48
+[2017-05-17 09:20:48] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-18 16:14:47] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL3582.tmp
+[2017-05-18 16:14:47] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-05-18 16:14:56] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-05-18 17:46:18] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:42.610000,endTime:1495100778.042000, FailedUrl:http://www.pptv.com/?plt=clt, RemoteIP:218.6.223.221
+[2017-05-18 17:46:18] [DIAGNOSE] [ppcef\render_widget_host_view_win.cc:1191] - [PPLive WebkitBrowser]URL Load Error::ErrorCode=4, ErrorReason:httpStatusCode:200,elapsedTime:42.718000,endTime:1495100778.059000, FailedUrl:http://client.aplus.pptv.com/menu/pg_nav, RemoteIP:218.6.223.221
+[2017-05-22 08:46:13] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL3A24.tmp
+[2017-05-22 08:46:14] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-05-22 08:46:23] [ERROR] [AdPolicy.cpp:33] - [PPLive admodule]URL status:(null)
+[2017-05-22 08:46:31] [ERROR] [Passport.cpp:281] - [PPLive NCList]passport LogoutWithReason:0
+[2017-05-22 08:47:12] [ERROR] [ChannelManager.cpp:8680] - [PPLive NCList]CChannelManager::ProcessRealUser success,cache file:C:\Users\ADMINI~1\AppData\Local\Temp\PPL1FA1.tmp
+[2017-05-22 08:47:12] [ERROR] [PPFrameWnd.cpp:2997] - [PPLive PPFrame]PPTV version:4.0.2.0035 customer:forqd3130
+[2017-05-22 08:48:46] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：9042526，VVID：FF9AF258-65C6-45B2-9CFB-FB28754128A6
+[2017-05-22 08:48:46] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=24,debug=[<debug uip="118.122.88.197" sip="10.208.185.222" fb="D" trace="channelid:9042526|pre:client" />
+]
+[2017-05-22 08:48:46] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=46; ErrorMessage=playError_Userinfo_NameEmpty; UserName=(null); UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=http://tv.pptv.com/?plt=clt; ChannelSource=24; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":9042526,"b":0,"c":0,"content":2,"d":25907671,"ft":-1,"ftall":0,"g":1,"h":-2147483648,"hjid":0,"hjname":"","hjtype":0,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":0,"rsid":0,"url":"pptv://0a2lmaqXpaKij9iioJbWpqY=","userinfo":false,"username":"","usertype":-1,"vip":0,"vtp":0}
+[2017-05-22 08:48:56] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25872301，VVID：84E1ADE3-B7E8-46E3-8D78-CDCEB72B3146
+[2017-05-22 08:48:56] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-22 08:50:15] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-05-22 08:50:22] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-22 08:53:39] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25911835，VVID：495B4CC2-3D30-4799-995F-6FA50A398645
+[2017-05-22 08:55:15] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-22 09:02:03] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-22 09:02:04] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-22 09:02:04] [ERROR] [PPPWnd.cpp:5644] - [PPLive PPP]请求节目：25872327，VVID：0B8C88D2-E03F-4F76-A444-108779AEDA3B
+[2017-05-22 09:02:04] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=24,debug=[<debug uip="118.122.88.197" sip="10.208.188.181" fb="D" trace="channelid:25872327|pre:client" />
+]
+[2017-05-22 09:02:21] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:0--
+[2017-05-22 09:04:40] [ERROR] [AdControl.cpp:3411] - [PPLive admodule]-------HTML5 调用广告播放结束 接口---nReason-:-1--
+[2017-05-22 09:08:52] [ERROR] [PPPWnd.cpp:8203] - [PPLive PPP]CPPPWnd::PlayList 不是vip,channelid=25872327
+[2017-05-22 09:08:52] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=4; ErrorMessage=playError_VipOnly; UserName=(null); UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=http://v.pptv.com/page/XuLOTLQaiasgrqRE.html?plt=clt; ChannelSource=8; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":25872327,"b":138,"c":0,"content":3,"d":0,"ft":-1,"ftall":0,"g":1,"h":0,"hjid":9042526,"hjname":"太极宗师之太极门","hjtype":1,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":-1,"rsid":0,"url":"","userinfo":false,"username":"","usertype":-1,"vip":1,"vtp":0}
+[2017-05-22 09:09:06] [ERROR] [PPPWnd.cpp:8203] - [PPLive PPP]CPPPWnd::PlayList 不是vip,channelid=25872327
+[2017-05-22 09:09:06] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=4; ErrorMessage=playError_VipOnly; UserName=(null); UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=null; ChannelSource=35; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":25872327,"b":138,"c":0,"content":1,"d":0,"ft":-1,"ftall":0,"g":1,"h":-2147483648,"hjid":9042526,"hjname":"太极宗师之太极门","hjtype":1,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":-1,"rsid":0,"url":"","userinfo":false,"username":"","usertype":-1,"vip":1,"vtp":0}
+[2017-05-22 09:09:11] [ERROR] [PPPWnd.cpp:8203] - [PPLive PPP]CPPPWnd::PlayList 不是vip,channelid=25872327
+[2017-05-22 09:09:11] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=4; ErrorMessage=playError_VipOnly; UserName=(null); UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=null; ChannelSource=35; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":25872327,"b":138,"c":0,"content":1,"d":0,"ft":-1,"ftall":0,"g":1,"h":-2147483648,"hjid":9042526,"hjname":"太极宗师之太极门","hjtype":1,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":-1,"rsid":0,"url":"","userinfo":false,"username":"","usertype":-1,"vip":1,"vtp":0}
+[2017-05-22 09:09:48] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：9042526，VVID：0B8C88D2-E03F-4F76-A444-108779AEDA3B
+[2017-05-22 09:09:48] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=24,debug=[<debug uip="118.122.88.197" sip="10.208.188.51" fb="D" trace="channelid:9042526|pre:client" />
+]
+[2017-05-22 09:09:48] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=46; ErrorMessage=playError_Userinfo_NameEmpty; UserName=(null); UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=http://vip.pptv.com/?plt=clt; ChannelSource=24; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":9042526,"b":0,"c":0,"content":2,"d":25911835,"ft":-1,"ftall":0,"g":1,"h":-2147483648,"hjid":0,"hjname":"","hjtype":0,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":0,"rsid":0,"url":"pptv://0a2lmaqXpaKij9iioJbWpqY=","userinfo":false,"username":"","usertype":-1,"vip":0,"vtp":0}
+[2017-05-22 09:09:52] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25872327，VVID：C6D64595-9517-475D-85D1-E04E9E2C5085
+[2017-05-22 09:09:52] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=24,debug=[<debug uip="118.122.88.197" sip="10.208.188.149" fb="D" trace="channelid:25872327|pre:client" />
+]
+[2017-05-22 09:09:52] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=46; ErrorMessage=playError_Userinfo_NameEmpty; UserName=(null); UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=http://v.pptv.com/page/XuLOTLQaiasgrqRE.html?plt=clt#00; ChannelSource=28; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":25872327,"b":0,"c":0,"content":2,"d":0,"ft":-1,"ftall":0,"g":1,"h":-2147483648,"hjid":0,"hjname":"","hjtype":0,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":0,"rsid":0,"url":"pptv://0a2enq6coqOeoJzHraCS07OV","userinfo":false,"username":"","usertype":-1,"vip":0,"vtp":0}
+[2017-05-22 09:10:06] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25872327，VVID：97C3CEAB-260A-4104-AAF9-A0CA04AB4941
+[2017-05-22 09:10:06] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=24,debug=[<debug uip="118.122.88.197" sip="10.208.188.51" fb="D" trace="channelid:25872327|pre:client" />
+]
+[2017-05-22 09:10:06] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=46; ErrorMessage=playError_Userinfo_NameEmpty; UserName=(null); UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=http://v.pptv.com/page/XuLOTLQaiasgrqRE.html?plt=clt#00; ChannelSource=12; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":25872327,"b":0,"c":0,"content":2,"d":0,"ft":-1,"ftall":0,"g":1,"h":-2147483648,"hjid":0,"hjname":"","hjtype":0,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":0,"rsid":0,"url":"pptv://0a2enq6coqOeoJzHraCS07OV","userinfo":false,"username":"","usertype":-1,"vip":0,"vtp":0}
+[2017-05-22 09:10:14] [ERROR] [PPPWnd.cpp:8203] - [PPLive PPP]CPPPWnd::PlayList 不是vip,channelid=25872327
+[2017-05-22 09:10:14] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=4; ErrorMessage=playError_VipOnly; UserName=(null); UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=null; ChannelSource=35; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":25872327,"b":138,"c":0,"content":1,"d":0,"ft":-1,"ftall":0,"g":1,"h":-2147483648,"hjid":9042526,"hjname":"太极宗师之太极门","hjtype":1,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":-1,"rsid":0,"url":"","userinfo":false,"username":"","usertype":-1,"vip":1,"vtp":0}
+[2017-05-22 09:10:46] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：9042526，VVID：DE01D8BF-56BE-4F9B-A0D3-CE0C0819FE79
+[2017-05-22 09:10:46] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=24,debug=[<debug uip="118.122.88.197" sip="10.208.188.86" fb="D" trace="channelid:9042526|pre:client" />
+]
+[2017-05-22 09:10:46] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=46; ErrorMessage=playError_Userinfo_NameEmpty; UserName=(null); UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=http://vip.pptv.com/?plt=clt; ChannelSource=24; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":9042526,"b":0,"c":0,"content":2,"d":25911835,"ft":-1,"ftall":0,"g":1,"h":-2147483648,"hjid":0,"hjname":"","hjtype":0,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":0,"rsid":0,"url":"pptv://0a2lmaqXpaKij9iioJbWpqY=","userinfo":false,"username":"","usertype":-1,"vip":0,"vtp":0}
+[2017-05-22 09:10:49] [ERROR] [PPPWnd.cpp:5899] - [PPLive PPP]请求节目：25872327，VVID：4EA1DA67-AD98-4321-B0AC-C63275CB48B1
+[2017-05-22 09:10:49] [ERROR] [XmlFileParser.cpp:131] - [PPLive NCList]CXmlFileParser::ProcessPlayElement::FILE_PLAYINFO::解析play信息 Error code=24,debug=[<debug uip="118.122.88.197" sip="10.208.185.222" fb="D" trace="channelid:25872327|pre:client" />
+]
+[2017-05-22 09:10:49] [DIAGNOSE] [PPPWnd.cpp:8930] - [PPLive PPP][PlayerError] ErrorCode=46; ErrorMessage=playError_Userinfo_NameEmpty; UserName=(null); UserLevelType=REAL; CityCode=53; IP=192.168.1.101; referer=http://v.pptv.com/page/XuLOTLQaiasgrqRE.html?plt=clt#00; ChannelSource=28; Debug=null; DiskId=fb28dd30c9f4985a9ec9cd0da30923ee; ppi=312c3533; json={"a":25872327,"b":0,"c":0,"content":2,"d":0,"ft":-1,"ftall":0,"g":1,"h":-2147483648,"hjid":0,"hjname":"","hjtype":0,"holder":0,"j":0,"localasonline":0,"name":"","pptvfile":0,"rsid":0,"url":"pptv://0a2enq6coqOeoJzHraCS07OV","userinfo":false,"username":"","usertype":-1,"vip":0,"vtp":0}
+[2017-05-22 09:10:55] [ERROR] [PPFrameWnd.cpp:4072] - [PPLive PPFrame]***--UEsDBBQAAgAIAFxJtkq9DeB3zAAAAAICAAAHABEAUHJvY2Vzc1VUDQAHnzoiWZ86IlmfOiJZlZBN
+DsIgEIWv4gEa72D8WamhtokL44LAWInQIUyl7e1tQK0VN4bN+2YebzJzKnpqwMyYQwFE5yxyRoZo
+Dh1kgtxTtaoeXpNWNVZYByBwXg05ATRxeikT215ckWJC7f2AQeY5Wx5Kllj+1fwuFcrqx6hOUl+L
+77mTHIuoySf1htPtDbKNe0BnNTpwAUoq4tbJX1VdOgsu3uAquRjXLR3vE3++W23fjj00G41tYMYW
+bLwUcF0qA4UFkHf7NGyVh285yf4cejSKOV+sAzwAUEsBAhcLFAACAAgAXEm2Sr0N4HfMAAAAAgIA
+AAcACQAAAAAAAAAAAACAAAAAAFByb2Nlc3NVVAUAB586IllQSwUGAAAAAAEAAQA+AAAAAgEAAAAA--***
